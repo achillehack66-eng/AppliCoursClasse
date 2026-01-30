@@ -1,0 +1,19 @@
+{
+  "derniere_mise_a_jour": "2026-01-28",
+  "liste_des_cours": [
+    {
+      "id": 1,
+      "matiere": "Mathématiques",
+      "titre": "Les nombres complexes",
+      "description": "Le cours complet sur les imaginaires.",
+      "url_contenu": "https://raw.githubusercontent.com/Achille/ton-depot/main/cours/maths_1.txt"
+    },
+    {
+      "id": 2,
+      "matiere": "Physique",
+      "titre": "Lois de Newton",
+      "description": "Tout sur la dynamique.",
+      "url_contenu": "https://raw.githubusercontent.com/Achille/ton-depot/main/cours/physique_1.txt"
+    }
+  ]
+}
