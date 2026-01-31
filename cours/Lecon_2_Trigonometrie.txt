@@ -1,0 +1,117 @@
+### IMAGE 9 (20260131_085307.jpg)
+
+Leçon 2 : Trigonométrie
+2.1 cos, sin, Tg d'un réel :
+a) Définition
+x est un nombre réel et α est la mesure principale de l'angle orienté dont x est une mesure.
+on appelle cos x = cos α et sin x = sin α
+on appelle tangente le nombre réel Tg α
+
+b) Propriété
+pour tout nombre entier relatif n et pour tout nombre entier relatif k
+
+P1 : cos² x + sin² x = 1
+P2 : -1 ≤ cos x ≤ 1
+P3 : -1 ≤ sin x ≤ 1
+P4 : cos(x + 2kπ) = cos x
+P5 : sin(x + 2kπ) = sin x
+P6 : cos x ≠ 0 alors tg x = sin x / cos x
+
+b) 1 / cos² x = 1 + Tg² x
+c) Tg(x + kπ) = tg x
+
+NB : cos x et sin x sont périodiques de période 2π, la fonction Tg est périodique de période π.
+EX : cos x = ½ Trouver le sin x sachant ...
+
+---
+
+### IMAGE 10 (20260131_085316.jpg)
+
+x ∈ ] 0 ; π/2 [
+cos² x + sin² x = 1 <=> sin² x = 1 - cos² x <=>
+sin² x = √1 - cos² x
+sin x = √1 - ¼ = √¾ = √3/2
+
+2.2 - Ligne trigonométrique
+a) Angle opposé
+
+(Schéma du cercle avec angle x et son opposé -x)
+
+OP : cos
+cos(-x) = cos x
+sin(-x) = -sin x
+
+b) Angle complémentaire
+Deux angles sont complémentaires si leur somme font π/2
+Angle x : x + y = π/2 <=> y = π/2 - x
+Salut Achille ! Je vois que tu as bossé dur sur la trigo. C'est un sacré pavé, mais t'inquiète, je t'ai retranscrit ça proprement en texte brut, bien lisible, sans fioritures et sans LaTeX pour que ton bloc-notes ne fasse pas une crise cardiaque.
+
+Voici le contenu de tes notes, image par image :
+
+---
+
+### Image 1 (20260131_085318.jpg)
+
+x et π/2 - x sont complémentaires
+
+[Cercle trigonométrique montrant l'angle x et l'angle π/2 - x]
+
+1. cos x = sin(π/2 - x)
+2. sin x = cos(π/2 - x)
+3. Tg x = cotg(π/2 - x)
+
+C) Angles Supplémentaires
+Deux angles sont supplémentaires si leur somme est égale à π.
+x + y = π => y = π - x
+Les angles x et π - x sont supplémentaires.
+
+---
+
+### Image 2 (20260131_085323.jpg)
+
+[Cercle trigonométrique montrant x et π - x]
+
+1. cos x = -cos(π - x) <=> cos(π - x) = -cos x
+2. sin x = sin(π - x)
+3. Tg x = -Tg(π - x)
+
+d) Angle de différence π/2
+x - y = π/2 <=> x = π/2 + y
+
+[Cercle trigonométrique montrant x et π/2 + x]
+
+---
+
+### Image 3 (20260131_085326.jpg)
+
+1. cos x = sin(π/2 + x) = cos x  (Note : Attention, petite erreur ici dans tes notes, c'est sin(π/2 + x) = cos x)
+2. sin x = -cos(π/2 + x) = sin x  (Note : Idem, c'est cos(π/2 + x) = -sin x)
+3. Tg(π/2 + x) = -cotg x
+
+e) Angles de différence π
+[Cercle trigonométrique montrant x et π + x]
+
+1. sin(π + x) = -sin x
+2. cos(π + x) = -cos x
+3. Tg(x + π) = Tg x
+
+---
+
+### Image 4 (20260131_085332.jpg)
+
+Ecrivons plus simplement :
+A = sin(π - x) - cos(π/2 - x)
+On sait que :
+sin(π - x) = sin x (Note : Attention, il y avait cos x écrit par erreur au début)
+cos(π/2 - x) = sin x (Note : Attention, il y avait -sin x écrit par erreur)
+
+A = sin x - sin x
+A = 0
+
+2.3 Formules d'addition :
+
+1. cos(a + b) = cos a cos b - sin a sin b => cos² a - sin² a
+2. sin(a + b) = sin a cos b + sin b cos a
+sin 2a = 2 sin a cos b
+3. cos(a - b) = cos a cos b + sin a sin b
+4. sin(a - b) = sin a cos b - sin b cos a
