@@ -1,0 +1,13 @@
+### Image 3 : Fonctions et Applications
+
+CHAP : FONCTION ET APPLICATION
+Rappel
+1.1 FONCTION
+On appelle fonction toute relation d'un ensemble A vers un ensemble B qui à chaque élément de l'ensemble de départ associe un élément dans l'ensemble B.
+
+[Schéma de patates (diagramme sagittal) avec des flèches allant de l'ensemble A vers l'ensemble B]
+A = R ; B = R
+
+1.2 Fonction numérique
+Une fonction est dite numérique si l'ensemble de départ est l'ensemble R.
+
