@@ -1,0 +1,12 @@
+### Image 6 : Les Extrémums
+
+Leçon 5 (L5) : Les extrémums
+Définition :
+5-1 Maximum
+On appelle les extrémums le maximum et le minimum d'une fonction c'est-à-dire les points les plus hauts et les points les plus bas de sa courbe. Pour trouver les extrémums on utilise la dérivée de la fonction.
+
+5-1 Maximum
+Le maximum d'une fonction est la plus grande valeur que la fonction atteint sur un intervalle donné. M telle que f(x) ≤ M.
+
+5-2 Minimum
+On appelle minimum d'une fonction la plus petite valeur que la fonction atteint sur un intervalle donné. f(x) ≥ m.
