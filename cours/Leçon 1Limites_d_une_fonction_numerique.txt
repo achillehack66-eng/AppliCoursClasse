@@ -1,0 +1,112 @@
+### Image 7 : Notion de Limite
+
+13/01/26
+CHAP : LIMITES ET CONTINUITÉ
+Leçon 1 : Limites d'une fonction numérique
+1.1 Notion de limite en un réel
+a) Activité
+R ---> R
+soit f : x ---> (x² - 1) / (x - 1)
+
+x | 0,9 | 0,99 | 0,999 | 1 | 1,0001 | 1,001 | 1,01 | 1,1
+f(x) | 1,9 | 1,99 | 1,999 | // | 2,0001 | 2,001 | 2,01 | 2,1
+
+On constate que lorsque x va au voisinage de 1 la fonction f(x) va au voisinage de 2. On note :
+lim f(x) = 2
+x -> 1
+
+On lit : "limite de f(x) lorsque x tend vers 1 est égale à 2"
+
+b) Propriété
+Soit f une fonction définie en a. Si f admet une limite en a alors :
+lim f(x) = f(a)
+x -> a
+
+---
+
+### Image 8 : Remarques sur les limites
+
+Exemple : f(x) = (x² - 1) / (x - 1)
+1°/ f est une fonction rationnelle
+f(x) existe ssi x - 1 ≠ 0 <=> x ≠ 1
+Df = R - { 1 }
+
+2°/ ∀ x ∈ Df, f(x) = (x - 1)(x + 1) / (x - 1)
+f(x) = x + 1
+
+lim f(x) = 1 + 1 = 2
+x -> 1
+
+c) Remarque (Rm) :
+Si une fonction numérique f a une limite en un réel, alors cette limite est unique.
+
+Rm 2 :
+Une fonction définie en un réel n'admet pas nécessairement une limite en ce réel.
+
+Rm 3 :
+Une fonction non définie en un réel peut admettre une limite en ce réel.
+
+Rm 4 :
+S'il existe un intervalle ouvert de centre x0 sur lequel la fonction f n'est pas définie alors f n'admet pas de limite au point 0.
+
+---
+
+### Image 9 : Limites de polynômes
+
+22/01/26
+Propriété : La limite à +∞ ou à -∞ d'une fonction polynôme est la limite à +∞ ou à -∞ de son monôme de plus haut degré.
+
+Exemple :
+calculez lim f(x) et lim f(x) quand x -> -∞ et x -> +∞
+f(x) = 3x⁴ - 5x³ + 2x² + 3x - 1
+
+lim f(x) = lim 3x⁴ = +∞
+x -> -∞
+
+lim f(x) = lim 3x⁴ = +∞
+x -> +∞
+
+b/ Activité :
+calculer les limites suivantes
+
+1. lim (-5x³)
+x -> -∞
+2. lim (-2x⁷)
+x -> +∞
+3. lim (2x³ - 5x + 7x - 1)
+x -> +∞
+4. lim (x + 5)
+x -> +∞
+
+Réponse :
+
+1. lim (-5x³) = +∞
+x -> -∞
+
+---
+
+### Image 10 : Exercices Limites
+
+2. lim (-2x⁷) = -∞
+x -> +∞
+3. lim (2x³ - 5x² + 7x - 1) = lim 2x³ = +∞
+x -> +∞
+4. lim (x + 5) = lim x = +∞
+x -> +∞
+5. lim (x + 5) = lim x = -∞
+x -> -∞
+
+Exercice
+
+1. lim x³ = -∞
+x -> -∞
+2. lim (-x³) = +∞
+x -> -∞
+3. lim x² = +∞
+x -> -∞
+4. lim (-4x⁵) = -∞
+x -> +∞
+5. lim (-4x⁵) = +∞
+x -> -∞
+6. lim (-4x⁵) =
+x -> +∞
