@@ -1,0 +1,163 @@
+### IMAGE 3 (20260131_090453.jpg)
+
+CHAPITRE 2 : Association de dipôles passifs
+
+1. Association en série
+[Schéma : Trois résistances R1, R2 et R3 alignées entre les points A et B. Le courant I entre par A. Flèches de tension U1, U2 et U3 sous chaque résistance, et une grande flèche U pour la tension totale AB.]
+
+UAB = U1 + U2 + U3
+UAB = R1.I + R2.I + R3.I
+UAB = (R1 + R2 + R3) x I
+Re x I = (R1 + R2 + R3) x I
+on remarque que la résistance équivalente
+Re = R1 + R2 + R3
+
+[Schéma simplifié : Une seule résistance Re entre A et B, traversée par le courant I.]
+Re = R1 + R2 + R3
+
+Dans un montage en série, la résistance équivalente est égale à la somme de résistance de ce montage.
+
+Application :
+[Schéma : Trois résistances en série : 10 Ω (R1), 5 Ω (R2) et 15 Ω (R3). Tension totale U = 70V.]
+
+---
+
+### IMAGE 4 (20260131_090457.jpg)
+
+Résolution
+
+1. calcul la résistance équivalente
+Re = R1 + R2 + R3
+Re = 10 + 5 + 15
+Re = 30 Ω
+2. I = U / Re
+I = 70 / 30
+I = 2,33 A
+3. calcul U1, U2 et U3
+U1 = R1 x I
+U1 = 10 x 2,33
+U1 = 23,3 V
+
+U2 = R2 x I
+U2 = 5 x 2,33
+U2 = 11,65 V
+
+U3 = R3 x I
+U3 = 15 x 2,33
+U3 = 34,95 V
+
+2- Association en parallèle
+[Schéma : Trois résistances R1, R2 et R3 branchées en dérivation entre les points A et B sous une tension U. Le courant total I se divise en I1, I2 et I3.]
+
+---
+
+### IMAGE 5 (20260131_090505.jpg)
+
+I = I1 + I2 + I3
+U/Re = U/R1 + U/R2 + U/R3
+U x 1/Re = U x 1/R1 + U x 1/R2 + U x 1/R3
+U x 1/Re = U x (1/R1 + 1/R2 + 1/R3)
+Donc 1/Re = 1/R1 + 1/R2 + 1/R3
+
+1/R = G est la conductance
+son unité est le Siemens
+1/RP = 1/R1 + 1/R2 + 1/R3
+Ge = 1/R1 + 1/R2 + 1/R3
+
+Dans une association de résistance en parallèle la conductance équivalente est égale à la somme conductance.
+
+3- Diviseurs de tension
+On est en présence d'un diviseur de tension lorsque les résistances sont montées en série.
+
+[Schéma : Deux résistances R1 et R2 en série entre A et B. Courant I. Tensions U1 et U2 indiquées, ainsi que la tension totale.]
+
+---
+
+### IMAGE 6 (20260131_090508.jpg)
+
+U2 = R2 x I
+I = U / (R1 + R2)
+U2 = (U x R2) / (R1 + R2)
+
+U1 = R1 x I
+I = U / (R1 + R2)
+U1 = (R1 x U) / (R1 + R2)
+
+4- Diviseur de courant
+On en présence des diviseur de courant lorsque les résistance sont en parallèle.
+
+[Schéma : Deux résistances R1 et R2 en parallèle entre A et B. Courant total I se divisant en I1 et I2 sous une tension U.]
+
+I2 = U / R2
+U = (R1 x R2) / (R1 + R2) x I
+
+---
+
+### IMAGE 7 (20260131_090530.jpg)
+
+I2 = ((R1 x R2) / (R1 + R2) x I) / R2
+I2 = (R1 x R2) / (R1 + R2) x 1/R2 x I
+I2 = (R1 x I) / (R1 + R2)
+
+I1 = (R2 x I) / (R1 + R2)
+
+---
+
+### IMAGE 8 (20260131_090536.jpg)
+
+CHAP 3 : Théorème Fondamentaux
+I - Théorème de Thévenin
+1- Énoncé
+En régime continu tout réseau linéaire a deux borne est équivalent à un générateur de tension en série avec sa résistance interne.
+
+2- Principe
+La force électromotrice (Fem), ETh
+La tension de Thévenin s'obtient en calculant la tension à vide du réseau. La résistance interne équivalente (RTH) s'obtient aux bornes de la charge en calculant la résistance interne équivalente du circuit tout en court-circuitant les sources de tension et en ouvrant les sources de courant.
+
+Remarque
+Avant d'appliquer le théorème de Thévenin, il faut débrancher la charge.
+
+3- Application
+[Schéma : Un circuit avec un générateur de tension, une résistance R1 en série, puis un nœud avec une résistance R2 en parallèle et une charge Rc entre les points A et B. Le courant Ic traverse Rc.]
+
+---
+
+### IMAGE 9 (20260131_090553.jpg)
+
+Déterminer :
+
+1. le générateur de Thévenin (ETh, RTh)
+2. calculer Ic. R1 = 10 Ω ; R2 = 5 Ω ; Rc = 2 Ω
+E = 30 V
+
+Solution
+
+1. calcule de ETh et RTh
+ETh = (E x R2) / (R1 + R2)
+ETh = (30 x 5) / (10 + 5)
+ETh = 150 / 15
+ETh = 10 V
+
+[Schéma de gauche : Le circuit pour RTh avec la source de tension court-circuitée. On voit R1 et R2 en parallèle.]
+
+---
+
+### IMAGE 10 (20260131_090559.jpg)
+
+II - Théorème de Norton
+1- Énoncé
+En régime continu tout circuit linéaire a deux bornes est équivalent à un générateur de courant : une source de courant en parallèle avec sa résistance interne.
+
+2- Principe
+On débranche la charge et on calcule la résistance de Norton RN (Résistance de Norton = Résistance de Thévenin). En court-circuitant la source de tension et en ouvrant la source de courant.
+Pour calculer le courant de Norton IN, on débranche la charge et on fait la somme des courants s'il y a plusieurs générateurs.
+
+3- Application
+[Schéma : Circuit avec deux branches contenant chacune un générateur (E1, E2) et une résistance (R1, R2) en parallèle, reliées à une charge RC entre A et B.]
+
+E1 = 36 V ; R1 = 10 Ω
+E2 = 25 V ; R2 = 5 Ω
+RC = 5 Ω
+
+1. calculer les éléments de Norton (RN, IN)
+2. calculer I
