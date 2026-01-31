@@ -1,19 +1,38 @@
 {
-  "derniere_mise_a_jour": "2026-01-28",
-  "liste_des_cours": [
+  "header": {
+    "derniere_maj": "30/01/2026"
+  },
+  "matieres": [
     {
-      "id": 1,
-      "matiere": "Mathématiques",
-      "titre": "Les nombres complexes",
-      "description": "Le cours complet sur les imaginaires.",
-      "url_contenu": "https://raw.githubusercontent.com/Achille/ton-depot/main/cours/maths_1.txt"
+      "nom": "Mathématiques",
+      "lecons": [
+        {
+          "titre": "Nombres Complexes",
+          "url_txt": "https://ton-serveur.com/api/maths/nombres-complexes.txt"
+        },
+        {
+          "titre": "Fonctions Logarithmes",
+          "url_txt": "https://ton-serveur.com/api/maths/logarithmes.txt"
+        }
+      ]
     },
     {
-      "id": 2,
-      "matiere": "Physique",
-      "titre": "Lois de Newton",
-      "description": "Tout sur la dynamique.",
-      "url_contenu": "https://raw.githubusercontent.com/Achille/ton-depot/main/cours/physique_1.txt"
+      "nom": "Physique-Chimie",
+      "lecons": [
+        {
+          "titre": "Thermodynamique",
+          "url_txt": "https://ton-serveur.com/api/physique/thermo.txt"
+        }
+      ]
+    },
+    {
+      "nom": "Informatique",
+      "lecons": [
+        {
+          "titre": "Algorithmique de base",
+          "url_txt": "https://ton-serveur.com/api/info/algo.txt"
+        }
+      ]
     }
   ]
 }
