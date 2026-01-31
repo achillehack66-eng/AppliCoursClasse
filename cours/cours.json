@@ -8,11 +8,18 @@
       "lecons": [
         {
           "titre": "Nombres Complexes",
-          "url_txt": "https://ton-serveur.com/api/maths/nombres-complexes.txt"
+          "url_txt": "https://ton-serveur.com/api/maths/nombres-complexes.txt",
+          "image_url": [
+            "https://ton-serveur.com/images/maths/complexes-1.jpg",
+            "https://ton-serveur.com/images/maths/complexes-schema.png"
+          ]
         },
         {
           "titre": "Fonctions Logarithmes",
-          "url_txt": "https://ton-serveur.com/api/maths/logarithmes.txt"
+          "url_txt": "https://ton-serveur.com/api/maths/logarithmes.txt",
+          "image_url": [
+            "https://ton-serveur.com/images/maths/log-graphique.jpg"
+          ]
         }
       ]
     },
@@ -21,7 +28,11 @@
       "lecons": [
         {
           "titre": "Thermodynamique",
-          "url_txt": "https://ton-serveur.com/api/physique/thermo.txt"
+          "url_txt": "https://ton-serveur.com/api/physique/thermo.txt",
+          "image_url": [
+            "https://ton-serveur.com/images/physique/cycle-carnot.png",
+            "https://ton-serveur.com/images/physique/formules-pression.jpg"
+          ]
         }
       ]
     },
@@ -30,7 +41,10 @@
       "lecons": [
         {
           "titre": "Algorithmique de base",
-          "url_txt": "https://ton-serveur.com/api/info/algo.txt"
+          "url_txt": "https://ton-serveur.com/api/info/algo.txt",
+          "image_url": [
+            "https://ton-serveur.com/images/info/tri-bulle.gif"
+          ]
         }
       ]
     }
