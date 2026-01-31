@@ -1,0 +1,38 @@
+### Image 1 : Inéquations Trigonométriques (Cos)
+
+Leçon 4 : Inéquation Trigonométrique
+4-1/ Propriété
+Pour résoudre les inéquations Trigonométriques on se base sur la résolution des équations Trigonométriques.
+
+4-2/ Activité
+cos x = ½ , cos x = π/3
+x = π/3 + 2kπ ou x = -π/3 + 2kπ
+
+[Schéma du cercle trigonométrique avec les angles π/3 et -π/3 sur l'axe cosinus à la valeur ½]
+
+x = [ -π/3 + 2kπ ; π/3 + 2kπ ]
+SR = [ -π/3 + 2kπ ; π/3 + 2kπ ] k ∈ Z
+
+---
+
+### Image 2 : Inéquations Trigonométriques (Sin et Tg)
+
+2. sin y = ½
+y = π/6 + 2kπ
+ou
+y = π - π/6 + 2kπ <=>
+y = 5π/6 + 2kπ
+
+sin y = ½
+y = π/6 + 2kπ ou y = 5π/6 + 2kπ
+
+[Schéma du cercle avec l'axe sinus à ½ et les angles π/6 et 5π/6]
+
+SR = ] π/6 + 2kπ ; 5π/6 + 2kπ [ k ∈ Z
+
+tg x ≤ 1
+x = π/4 + kπ ou -π/2 + kπ
+
+[Schéma du cercle avec la tangente à 1 et l'angle π/4]
+
+SR = [ -π/2 + kπ ; π/4 + kπ ]
