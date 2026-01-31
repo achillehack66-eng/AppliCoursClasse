@@ -1,0 +1,42 @@
+### IMAGE 8 (20260131_090659.jpg)
+
+CHAPS : Théorème de Kennelly
+
+Une maille triangulaire ABC appartenant à un réseau, et ne comportant que les résistances RAB ; RBC ; RCA peut être remplacer par trois résistance RA ; RB ; RC disposer en étoile et ayant pour valeurs :
+
+1. Passage de Triangle en Étoile
+
+(Schéma Triangle vers Étoile)
+
+RA = (RAB × RAC) / (RAB + RAC + RBC)
+RB = (RBC × RAB) / (RAB + RAC + RBC)
+
+---
+
+### IMAGE 9 (20260131_090702.jpg)
+
+(Schéma de transformation avec nœud O)
+
+RC = (RAC × RBC) / (RAB + RAC + RBC)
+
+RC = (RAC × RBC) / (RAB + RAC + RBC)
+
+---
+
+### IMAGE 10 (20260131_090730.jpg)
+
+CHAPITRE : LES DIODES
+
+I - Diodes d'ajonction ou diodes de Redressement
+
+I-A - Constitution
+
+Une diode d'ajonction est un dipôle constituer par l'ajonction d'une zone P et d'une zone N créer dans un même cristal de semi-conducteur, le tout encapsulé dans le même boîtier.
+
+* l'électrode relier à la zone P est l'anode notée A
+* l'électrode relié à la zone N est l'acathode notée K ou C
+
+I-2 Symbole
+
+A (Anode) -> K (cathode)
+(Dessin du symbole de la diode avec le triangle et la barre)
