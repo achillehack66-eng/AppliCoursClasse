@@ -1,0 +1,62 @@
+### IMAGE 10 (20260131_090730.jpg)
+
+
+I - Diodes d'ajonction ou diodes de Redressement
+
+I-A - Constitution
+
+Une diode d'ajonction est un dipôle constituer par l'ajonction d'une zone P et d'une zone N créer dans un même cristal de semi-conducteur, le tout encapsulé dans le même boîtier.
+
+* l'électrode relier à la zone P est l'anode notée A
+* l'électrode relié à la zone N est l'acathode notée K ou C
+
+I-2 Symbole
+
+A (Anode) -> K (cathode)
+(Dessin du symbole de la diode avec le triangle et la barre)
+
+### Image 1 (20260131_090746.jpg)
+
+Limites en courant
+
+* IFAV ou IO : courant direct moyen (maximal)
+* IFRM : courant direct répétitif maximal
+* IFSM : courant direct
+On a : IFRM < IFSM
+On a les principaux critères de choix de diodes de redressement :
+
+Exemple :
+
+| Type | VRRM (V) | IO ou IFAV (A) | IFSM (A) | VF (V) | IR (A) | VRRM (V) |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1N4001 | 50 | 1 | 30 | 1,1 | 5 | 50 |
+| 1N4004 | 400 | 1 | 30 | 1,1 | 5 | 400 |
+| 1N1585 | 400 | 3 | 40 | 1,5 | 3 | 5 |
+
+* détecteur de tension faible, fiable et moyenne radio et télévision
+* générateur d'harmonique, mélangeur, limitateur
+* modulation de système de télécommunication
+
+1-6-2 d'emploi plus restreint, elle remplace les diodes au germanium pour fonctionnement
+
+---
+
+### Image 2 (20260131_090749.jpg)
+
+...de température et de fréquence plus élevée
+
+* commutation : machine à calculer
+* redresseur à jonction
+* Redresseur II
+
+C'est une diode spécialement conçue pour exploiter le claquage inverse. La tension de claquage ou une tension de Zener est relativement faible, du volt à quelque dizaine de volts.
+
+2- Symbole
+(Schéma d'une diode Zener avec Anode A et Cathode K)
+I(mA)
+A : Anode
+K ou C : Cathode
+En direct
+En inverse
+Vz
+E0
