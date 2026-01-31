@@ -34,3 +34,73 @@ Ces question porte généralement sur des points
 * La visée argumentative : c'est l'objectif que l'auteur veut atteindre lorsqu'il écrit son texte, c'est le comportement qu'il veut faire changer dans l'habitude du lecteur.
 * La structure argumentative ou la structure du texte : elle consiste à dire comment le texte est structuré (soit en paragraphe avec les alinéas soit en mouvement écrit en bloc). Par la suite, l'élève va délimiter les paragraphe ou les mouvement mentionner la référence avant de proposer un titre.
 * La démarche argumentative : elle consiste à dire comment l'auteur s'en est pris pour écrit son texte. S'il est parti soit d'une généralité, d'un constat ou d'une définition pour par la suite comment il a développer son thème abordé et pourquoi.
+
+Salut Achille ! Je t'ai fait ça propre, sans aucun code compliqué ni LaTeX. C'est du texte brut, prêt à être balancé dans tes fichiers `.txt` sans que ça devienne un casse-tête illisible.
+
+Voici la retranscription intégrale de tes notes :
+
+---
+
+### IMAGE 1
+
+13/09/2025
+NB : tout ces elements suce mentionner represente la situation argumentative
+
+2- Les Question de vocabulaire
+
+Elle consiste a expliquer un mot, une expression en fonction du contexte du texte ce revient tout simplement a dire que l'eleve ne doit en aucun cas se servir d'un dictionnaire physique ou virtuel. Pour y parvenir l'eleve doit remonter trois ligne avant et deux ligne après la phrase contenant le mot ou l'expression a expliquer
+
+II / Le Resumer
+
+Resumer un texte c'est dire en peu de mot ce que l'auteur dans un autre texte pour y arriver il faut observer certaine règle de base après avoir numeroter le texte, après l'avoir lu au moins plus d'une fois, l'eleve doit identifier clairement les idée essenciel des idée secondaire. Une idée est dite essenciel, lorsque elle porteuse de sens capable de faire progresser la comprehension du texte
+Une idée est dite secondaire lorsqu'elle
+
+---
+
+### IMAGE 2
+
+aporte plus de detail a l'idée essenciel ne jamais prendre pour idée essenciel ce qui suit : toute phrase commençant par En effet, En
+
+une fois identifier l'eleve doit les reformuler (dit autrement ce qui l'auteur dit sans toute fois changer le sens de la phrase) il doit également utiliser les connecteurs logique pour relier les differente idée reformuler entre elle
+
+1- si l'on vous donne le nombre de mots du texte initial :
+
+il faut proceder comme suite :
+
+* Prendre le nombre de mots du texte initial ;
+* Appliquer la fraction soit au ⅓ soit au ¼
+* Proceder a l'encadrement : (-10 a gauche +10 a droite)
+EX : soit un texte initial de 681 MOTS resumer le au tiers ⅓ de son volume avec une marge de tolérance de plus ou moins 10%
+
+---
+
+### IMAGE 3
+
+2- si l'on ne vous donne pas le nombre de mots du texte initial
+
+Dans ce cas il faut proceder comme suite :
+
+* Compter le nombre de mots des 5 premier ligne
+* Diviser le nombre obtenue par 5 pour avoir la moyenne de mots par minute
+* multiplier cette moyenne par le nombre de ligne initial
+* appliquer la fraction soit au ⅓ soit au ¼
+
+Ex : soit un texte initiale dont le nombre de 50 ligne dont le nombre de mots du texte initial est des 5 premier ligne est de 52 ligne resumer le au ¼ de son volume avec une marge de tolérance de ±10%
+
+Reformulation des idées essentielles
+
+P1 : L'école lieu de transmition du savoir est devenu l'espace ou se noue toute forme de discrimination
+
+P2 : et cela se perçoit par le taux d'echec et l'incompetence des apprenant
+
+P3 : Resultat de la mauvaise politique des autorité éducative
+
+---
+
+### IMAGE 4
+
+P4 : Qui s'explique par les mauvais resultat sur le terrain
+
+P5 : occasionner du coup une forme de mefiance entre les autorité et les apprenant
+
+P6 : Même l'instituteur n'y est pas épargné
