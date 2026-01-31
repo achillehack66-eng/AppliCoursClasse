@@ -1,0 +1,240 @@
+### Image 1 (20260131_085104.jpg)
+
+07/10/25
+Leçon 3 : Équations et inéquations qui se ramènent à une équation ou inéquation du 2nd degré
+
+3-1 Utilisation d'une inconnue auxiliaire
+a) Équations
+a.1/ Définition
+
+Ses équations se ramenant à une équation du second (2nd) dans ℝ sont de la forme ax⁴ + bx² + c = 0 on les appelle les équations bicarrées. Pour les résoudre, on utilise une inconnue auxiliaire généralement X et on pose X = x² et on obtient l'équation (E') : aX² + bX + c = 0 l'équation (E') s'appelle la resolvante de l'équation (E)
+
+a.2/ Application
+
+Résoudre dans ℝ l'équation :
+(E) : x⁴ - 3x² - 4 = 0
+
+Résolution
+Posons X = x², l'équation (E) devient
+(E') : X² - 3X - 4 = 0
+Δ = (-3)² - 4(1) x (-4) = 9 + 16 = 25
+
+---
+
+### Image 2 (20260131_085118.jpg)
+
+X1 = -(-3) - 5 / 2 = 3 - 5 / 2 = -2 / 2 = -1
+X2 = -(-3) + 5 / 2 = 3 + 5 / 2 = 8 / 2 = 4
+
+L'équation auxiliaire nous donne :
+x² - 4 = 0 => (x - 2)(x + 2) = 0
+{ x = 2 ou x = -2
+Sℝ = {-2 ; 2}
+
+2/ résoudre dans ℝ
+(E) : x⁴ - 5x² + 6 = 0
+X = x² (E) devient (E')
+X² - 5X + 6 = 0
+Δ = (-5)² - 4 x 6 = 25 - 24 = 1
+X1 = 5 - 1 / 2 = 2 ; X2 = 5 + 1 / 2 = 3
+
+1. (x² - 2) = 0 <=> (x - √2)(x + √2) = 0
+x - √2 = 0 <=> x = √2
+ou x + √2 = 0 <=> x = -√2
+2. (x² - 3) = 0 <=> (x² - (√3)²) = 0
+(x - √3)(x + √3) = 0
+
+---
+
+### Image 3 (20260131_085120.jpg)
+
+x - √3 = 0 <=> x = √3 ou x + √3 = 0 <=> x = -√3
+Sℝ = {-√2 ; √2 ; -√3 ; √3}
+
+a/ Équation bicarrées
+b/ Inéquations bicarrées
+b.1/ Définition
+Les inéquations bicarrées sont de la forme
+
+1. ax⁴ + bx² + c < 0
+2. ax⁴ + bx² + c ≤ 0
+3. ax⁴ + bx² + c > 0
+4. ax⁴ + bx² + c ≥ 0
+
+b.2/ Application Résoudre dans ℝ
+
+1. x⁴ - 5x² + 6 ≤ 0
+2. 2x⁴ + x² - 45 > 0
+
+x⁴ - 5x² + 6 ≤ 0 (I1)
+posons X = x²
+(I1) devient (I1') :
+X² - 5X + 6 ≤ 0
+Δ = (-5)² - 4 x 6 = 25 - 24 = 1
+√Δ = 1
+X1 = -(-5) - 1 / 2 = 5 - 1 / 2 = 4 / 2 = 2
+
+---
+
+### Image 4 (20260131_085131.jpg)
+
+X2 = -(-5) + 1 / 2 = 5 + 1 / 2 = 6 / 2 = 3
+
+on résoud
+
+1. x² - 2 = 0 <=> x² - (√2)² = 0 <=> (x - √2)(x + √2) = 0
+{ x - √2 = 0 <=> x = √2
+{ x + √2 = 0 <=> x = -√2
+2. x² - 3 = 0 <=> x² - (√3)² = 0 <=> (x - √3)(x + √3) = 0
+{ x - √3 = 0 <=> x = √3
+{ x + √3 = 0 <=> x = -√3
+
+Tableau de signes :
+x      | -∞   -√3   -√2    √2    √3    +∞
+-------|---------------------------------
+x - √2 |  -     -     -     0     +     +
+x + √2 |  -     -     0     +     +     +
+x - √3 |  -     0     +     +     +     +
+x + √3 |  -     -     -     -     0     +
+-------|---------------------------------
+I1     |  +     0     -     0     +     0     -     0     +
+
+Sℝ = [-√3 ; -√2] U [√2 ; √3]
+
+---
+
+### Image 5 (20260131_085136.jpg)
+
+3.2. Équation et inéquation irrationnelle
+a) Équation irrationnelle
+a.1/ Définition
+on appelle équation irrationnelle toute équation de la forme √(P(x)) = Q(x)
+EX : √(x² + 2x - 1) = 2x + 3 où P(x) et Q(x) sont des polynômes
+
+a.2/ méthode de résolution
+L'équation irrationnelle de type √(P(x)) = Q(x) a le même ensemble de solution que le système :
+{ P(x) ≥ 0  (1)
+{ Q(x) ≥ 0  (2)
+{ P(x) = Q²(x) (3)
+
+a.3/ Activité :
+Résoudre dans ℝ
+√(x² + 2x + 3) = 3x - 1
+Soit P(x) = -x² + 2x + 3
+Δ = 2² - 4 x (-1) x 3 = 4 + 12 = 16
+√Δ = 4 ; x1 = -2 - 4 / -2 = -6 / -2 = 3
+
+---
+
+### Image 6 (20260131_085152.jpg)
+
+x2 = -2 + 4 / -2 = 2 / -2 = -1
+-x² + 2x + 3 = (x + 1)(x - 3)
+
+1. (x + 1)(x - 3) ≥ 0
+x    | -∞   -1    3    +∞
+-----|-------------------
+P(x) |  -    0    +    0    -
+
+P(x) existe si x ∈ [-1 ; 3]
+
+2. 3x - 1 ≥ 0 <=> 3x ≥ 1 <=> x ≥ ⅓
+Q(x) ≥ 0 si x ∈ [⅓ ; +∞[
+3. (√(x + 1)(x - 3))² = (3x - 1)²
+(x + 1)(x - 3) = 9x² - 6x + 1
+-x² + 2x + 3 = 9x² - 6x + 1
+9x² + x² - 6x - 2x + 1 - 3 = 0
+10x² - 8x - 2 = 0 <=> 5x² - 4x - 1 = 0
+Δ = (-4)² - 4 x 5 x (-1) = 16 + 20 = 36
+
+---
+
+### Image 7 (20260131_085155.jpg)
+
+√Δ = 6
+x' = 4 - 6 / 2 x 5 = -2 / 10 = -⅕
+x'' = 4 + 6 / 2 x 5 = 10 / 10 = 1
+
+L'équation existe ssi x ∈ [-1 ; 3] ∩ [⅓ ; +∞[
+[Dessin de la droite numérique avec l'intervalle [⅓ ; 3] hachuré]
+x ∈ [⅓ ; 3]
+
+Sℝ = {1}
+
+b) Définition
+on appelle Inéquation irrationnelle toute Inéquation de la forme :
+√(P(x)) < Q(x) ou
+√(P(x)) ≤ Q(x) ou
+√(P(x)) > Q(x) ou
+√(P(x)) ≥ Q(x)
+
+b.2/ méthode de résolution
+
+---
+
+### Image 8 (20260131_085201.jpg)
+
+pour résoudre toute équation inéquation irrationnelle du type...
+
+b) Application
+Résoudre dans ℝ √( -2x² + 5x + 3) < 2x + 1
+Résoudre l'inéquation (I1) revient à résoudre le système :
+{ -2x² + 5x + 3 ≥ 0 (1)
+{ 2x + 1 ≥ 0 (2)
+{ -2x² + 5x + 3 < (2x + 1)² (3)
+
+1. -2x² + 5x + 3 ≥ 0 ; Δ = 5² - 4(-2) x 3
+Δ = 25 + 24 = 49 = 7²
+x1 = -5 - 7 / -2 x 2 = -12 / -4 = 3
+x2 = -5 + 7 / -2 x 2 = 2 / -4 = -½
+
+| x | -∞   -½    3    +∞ |
+| --- | --- |
+| P(x) | -    0    +    0    - |
+
+---
+
+### Image 9 (20260131_085203.jpg)
+
+P(x) existe ssi x ∈ [-½ ; 3] S1
+
+2. 2x + 1 ≥ 0 <=> 2x ≥ -1 <=> x ≥ -½
+Q(x) existe ssi x ∈ [-½ ; +∞[ S2
+3. -2x² + 5x + 3 < (2x + 1)²
+(2x + 1)² = (2x)² + 2(2x) + 1
+= 4x² + 4x + 1
+
+-2x² + 5x + 3 < 4x² + 4x + 1
+4x² + 4x + 1 + 2x² - 5x - 3 > 0
+6x² - x - 2 > 0
+Δ = (-1)² - 4 x 6 x (-2) = 1 + 48 = 49 = 7²
+√Δ = 7 ; x1 = -(-1) - 7 / 2 x 6 = 1 - 7 / 12 = -6 / 12 = -½
+x2 = -(-1) + 7 / 2 x 6 = 8 / 12 = 2 x 4 / 3 x 4 = ⅔
+
+| x | -∞   -½    ⅔    +∞ |
+| --- | --- |
+| I1 | +    0    -    0    + |
+
+x ∈ ]-∞ ; -½[ U ]⅔ ; +∞[ S3
+
+---
+
+### Image 10 (20260131_085211.jpg)
+
+[Dessin d'une droite numérique avec les points -½, 0, ⅔, 1, 2, 3]
+Sℝ = ]⅔ ; 3] ; Sℝ = S1 ∩ S2 ∩ S3
+
+1. √(x² + 2x - 3) < 2x + 1
+2. x² + 2x - 3 ≥ 0
+Δ = 2² - 4 x 1 x (-3) = 4 + 12 = 16
+√Δ = 4 ; x1 = -2 - 4 / 2 = -6 / 2 = -3
+x2 = -2 + 4 / 2 = 2 / 2 = 1
+
+| x | -∞   -3    1    +∞ |
+| --- | --- |
+| P(x) | +    0    -    0    + |
+
+S1 = ]-∞ ; -3] U [1 ; +∞[
+
+2. 2x + 1 ≥ 0 <=> 2x ≥ -1 <=> x ≥ -½
+S2 = [-½ ; +∞[
