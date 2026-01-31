@@ -1,0 +1,40 @@
+### Image 4 : Restriction d'une fonction
+
+2.1 Définition
+Soient une fonction f de A vers B et E une partie non vide.
+
+2.2 Activité
+f : x ---> |x - 2| - x
+Trouver une restriction de f sur l'intervalle ] -∞ ; 2 ], appelée g et déterminer l'expression de g(x).
+
+Réponse :
+|x - 2| = x - 2 si x - 2 ≥ 0 <=> si x ≥ 2
+
+* |x - 2| = -(x - 2) = -x + 2 si x - 2 < 0 <=> x ≤ 2
+
+Sur ] -∞ ; 2 ], |x - 2| = 2 - x
+
+g(x) = 2 - x - x = -2x + 2 = 2(1 - x)
+
+] -2 ; 2 ] ---> R
+g : x ---> 2 - 2x = 2(1 - x)
+g est la restriction de f sur ] -∞ ; 2 ]
+
+---
+
+### Image 5 : Exemple de restriction
+
+II) R ---> R
+f : x ---> |1 - x| + 2x
+Donner l'expression de la restriction g de f sur I = [ 1 ; +∞ [
+
+Réponse :
+|1 - x| = 1 - x si 1 - x ≥ 0 <=> x ≤ 1
+et |1 - x| = -(1 - x) = x - 1 si 1 - x ≤ 0 <=> x ≥ 1
+
+si x ≥ 1 <=> x ∈ [ 1 ; +∞ [
+f(x) = x - 1 + 2x = 3x - 1
+
+[ 1 ; +∞ [ ---> R
+g : x ---> 3x - 1
+g est la restriction de f sur [ 1 ; +∞ [
