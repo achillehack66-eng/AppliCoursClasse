@@ -1,0 +1,158 @@
+Image 1 (20260131_090217.jpg)
+
+OA: Mesurer avec précision la valeur d’une résistance inconnue à l’aide du pont de Wheatstone
+
+Mesure d’une résistance à l’aide du pont de Wheatstone
+
+1- Matériels nécessaire
+
+* fils de connexion
+* 04 Résistance : RX, R1, R2, R3
+* 01 pile de 6V ou 9V
+* un galvanomètre
+* un interrupteur
+* plaquette d’essai
+
+Rappel théorique :
+
+Principe du pont
+
+Le pont de Wheatstone consiste en un circuit électrique comportant trois résistance connue et un 4ème à déterminer et alimenté par un générateur de courant électrique considérons alors le circuit ou R1 et R2 sont connus R3 est une résistance réglable et RX une résistance inconnue. Les deux ponts C et D sont reliés par un galvanomètre
+
+---
+
+### Image 2 (20260131_090228.jpg)
+
+3- Démarche expérimental
+
+Pour déterminer la valeur de la résistance inconnue RX il faut ajuster la valeur de la résistance R3 dans le pont juste jusqu’à ce qu’on annule l’intensité entre les deux branche du pont en agissant sur la résistance R3, R1, R2 on dit alors il est possible d'annuler le courant dans le galvanomètre on dit alors que le pont est équilibré.
+
+UR1 = R1 x I2
+UR1 = R1 I1
+UR2 = 0
+UR3 = R3 I3
+
+R1/R2 = RX/R3
+
+RX = (R1 x R3) / R2
+
+---
+
+### Image 3 (20260131_090234.jpg)
+
+Le pont de Wheatstone est une méthode très précis pour mesuré le passé de une résistance inconnu, il est basé sur l’équilibre d’un pont électrique et permet d’obtenir une valeur exacte sans utilisé de multimètre, il est beaucoup utilisé en laboratoire et dans le processus de mesure précise.
+
+Recherche
+
+---
+
+### Image 4 (20260131_090245.jpg)
+
+OA : Analyser un pont diviseur de tension et un pont diviseur de courant
+
+Introduction
+Les circuit-électrique contienne des composant qui exige des niveau de tension ou de courant adapté, lorsqu’une source alimente plusieurs élément il devient nécessaire de réduire ou de partager l’énergie, pour cela on utilise le pont diviseur de tension.
+Le pont diviseur de tension permet de créer une tension parallèle tandis que le pont diviseur de courant répartie l’intensité entre les branche parallèle C'est deux outil joue un rôle essentiel.
+
+1- Le pont diviseur de tension
+1-1 Définition
+un pont diviseur de tension est un montage électronique simple qui permet de diminuer la tension d’entrée constituer par l’exemple de deux résistance en série.
+
+1-2- Principe du diviseur de tension non-chargé
+la tension du diviseur sont relier a la masse et les deux résistance R1 et R2 sont connecté en série, une tension U
+
+---
+
+### Image 5 (20260131_090258.jpg)
+
+est appliquer en entrée sur ces deux résistance est la tension de sortie est mesurer aux borne de R2.
+
+[Schéma d'un pont diviseur avec U en entrée, R1 et R2 en série, et U2 aux bornes de R2]
+
+en utilisant la loi des mailles puis la loi d'ohm.
+
+1-3 Principe du diviseur de tension chargé
+le montage est similaire au précédent mais avec une résistance de charge en sortie celle ci est en parallèle avec la résistance R2 la résistance équivalent vue par U2 :
+
+Req = (R2 x RL) / (R2 + RL)
+
+l'équation diviseur de tension peut s'écrire
+
+---
+
+### Image 6 (20260131_090312.jpg)
+
+U2 = (Req / (R1 + Req)) x U
+
+[Schéma montrant R1 en série avec un groupement parallèle de R2 et RL]
+
+un pont diviseur de courant est un montage électronique simple, généralement constituer de deux résistance en parallèle qui permet de diviser un courant d'entrée total en deux courant partiel.
+La formule du diviseur de courant permet de calculer l'intensité du courant dans une résistance lorsqu'elle celle ci fait parti d'un ensemble de résistance en parallèle et lorsqu'on on connait le courant total qui alimente cet ensemble.
+
+Pont à deux branche
+soit un nœud simple et dans la branche sont les résistance R1 et R2, on peut noter que si on note respectivement
+
+---
+
+### Image 7 (20260131_090321.jpg)
+
+G1 et G2 les conductance des deux branche alors l’intensité du courant dans la branche 1 est noté par (G = 1/R)
+I1 = (G1 / (G1 + G2)) x I
+
+Soit V la tension aux borne de R1 et R2 on a :
+
+[Schéma de deux résistances en parallèle avec les courants I1 et I2]
+
+I1 = V/R1 et I2 = V/R2
+
+I = I1 + I2
+I = ((R1 + R2) / (R1 x R2)) x V
+
+V = ((R1 x R2) / (R1 + R2)) x I
+
+en remplaçant V dans la première équation on a :
+I1 = (R2 / (R1 + R2)) x I
+
+---
+
+### Image 8 (20260131_090334.jpg)
+
+les pont diviseur sont des outils fondamentaux en électricité leur bonne compréhension permet d’adapter l’énergie électrique au besoin des circuit effectuer les mesure fiable et d’éviter le mariage (sic: peut-être "surcharge" ou "clavage"?)
+
+---
+
+### Image 9 (20260131_090341.jpg)
+
+LES THEOREMES FONDAMENTAUX
+
+Introduction
+Les théorème de Thévenin et de Norton sont des outils qui permette de simplifier complexe une entre deux point puisse être remplacer par un modèle équivalent simple
+
+1- Théorème
+1-1
+Le théorème de Thévenin permet de simplifier n'importe quelle circuit électrique linéaire complexe en un circuit équivalent simple composé d'une source de tension idéal (Eth ou Vth) en série avec une résistance équivalente (RTH) vue à travers les deux borne
+
+1-2 les composant de l'équivalent de Thévenin
+La tension a vide mesurer aux borne de circuit lorsque
+
+RTH (Résistance de Thévenin) c'est la résistance équivalente vue depuis ces même borne après avoir "eteint" toute les source de tension (remplacer par des court-circuits) et toute les source de courant remplacer par
+
+---
+
+### Image 10 (20260131_090351.jpg)
+
+il permet de simplification un circuit électrique linéaire complexe en le remplaçant par un modèle équivalent simple : une source de courant idéal (Courant de Norton IN) monter en parallèle avec une résistance (résistance de Norton)
+
+[Schéma d'un circuit complexe avec E1=20V, E2=10V et plusieurs résistances R1, R2, R4]
+
+calculer le générateur TH entre A et B
+
+[Schéma montrant une résistance R1 et les bornes A et B]
+
+2° Théorème de Norton
+
+---
+
+Voilà mon pote, tout y est ! Tu n'as plus qu'à copier-coller ça dans tes fichiers `.txt`.
+
+Est-ce que tu veux que je t'aide à résoudre l'exercice de la dernière page avec le calcul du générateur de Thévenin entre A et B ?
