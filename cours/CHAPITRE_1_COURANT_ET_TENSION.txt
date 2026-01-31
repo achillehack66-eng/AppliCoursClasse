@@ -1,0 +1,26 @@
+### IMAGE 1 (20260131_090431.jpg)
+
+CHAPITRE 1 : COURANT ET TENSION
+I - Le courant électrique
+1- Définition
+L'intensité est la grandeur qui indique la quantité du courant électrique dans un circuit. Elle correspond au nombre d'électrons libres qui circule.
+
+2- Notation et unité
+on note l'intensité I
+Elle s'exprime en Ampère (A)
+Ex : I = 2 A ; I = 6 mA
+
+3- Sens conventionnel du courant électrique
+Par convention, le courant électrique est orienté dans le sens du mouvement des porteurs de charge positive (sens inverse du déplacement des électrons). Il sort de la borne positive du courant et entre dans la borne négative du générateur.
+
+[Schéma : Un circuit rectangulaire avec une pile en haut. Borne + à droite, borne - à gauche. Le courant I circule de la borne + vers la borne - (sens horaire). Au milieu, une flèche "e-" indique le sens des électrons de la borne - vers la borne +. En bas, une lampe représentée par un cercle avec une croix.]
+
+4- Mesure de l'intensité du courant électrique
+
+---
+
+### IMAGE 2 (20260131_090441.jpg)
+
+On mesure l'intensité du courant électrique dans un circuit électrique à l'aide d'un ampèremètre que l'on insère dans le circuit.
+
+[Schéma : Circuit en série comprenant un générateur en haut, un ampèremètre noté (A) sur la branche de droite avec les bornes + et -, et une résistance notée R en bas.]
