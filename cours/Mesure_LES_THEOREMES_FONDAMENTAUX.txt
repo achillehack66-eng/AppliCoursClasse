@@ -1,0 +1,23 @@
+LES THEOREMES FONDAMENTAUX
+
+Introduction
+Les théorème de Thévenin et de Norton sont des outils qui permette de simplifier complexe une entre deux point puisse être remplacer par un modèle équivalent simple
+
+1- Théorème
+1-1
+Le théorème de Thévenin permet de simplifier n'importe quelle circuit électrique linéaire complexe en un circuit équivalent simple composé d'une source de tension idéal (Eth ou Vth) en série avec une résistance équivalente (RTH) vue à travers les deux borne
+
+1-2 les composant de l'équivalent de Thévenin
+La tension a vide mesurer aux borne de circuit lorsque
+
+RTH (Résistance de Thévenin) c'est la résistance équivalente vue depuis ces même borne après avoir "eteint" toute les source de tension (remplacer par des court-circuits) et toute les source de courant remplacer par
+
+il permet de simplification un circuit électrique linéaire complexe en le remplaçant par un modèle équivalent simple : une source de courant idéal (Courant de Norton IN) monter en parallèle avec une résistance (résistance de Norton)
+
+[Schéma d'un circuit complexe avec E1=20V, E2=10V et plusieurs résistances R1, R2, R4]
+
+calculer le générateur TH entre A et B
+
+[Schéma montrant une résistance R1 et les bornes A et B]
+
+2° Théorème de Norton
