@@ -1,5 +1,3 @@
-### Image 3 (20260131_090806.jpg)
-
 I- Définition et constitution
 1- Définition
 C'est un composant électronique à trois bornes dont le collecteur C, l'émetteur (E) et la base (B). Il a la possibilité d'amplifier le courant dans un circuit mais également de se comporter comme un interrupteur.
@@ -11,10 +9,6 @@ Il est constitué par un cristal de semi-conducteur (germanium ou silicium) comp
 * Soit deux zones P séparées par une zone (N) : c'est une transition NPN
 
 (Schéma de la constitution du transistor avec Emetteur (E), Base (B) et Collecteur (C))
-
----
-
-### Image 4 (20260131_090818.jpg)
 
 Le transistor bipolaire présente deux jonctions PN dont les sens sont opposés. La zone comprise entre les jonctions est très mince : c'est la base du transistor. Une des zones extrêmes est fortement dopée : c'est l'émetteur du transistor. L'autre zone extrême est faiblement dopée : c'est le collecteur du transistor.
 
@@ -29,10 +23,6 @@ E
 * Ancien symbole
 (Cercle avec les branches B, C, E)
 * Schéma équivalent en deux diodes
-
----
-
-### Image 5 (20260131_090821.jpg)
 
 (Schéma avec deux diodes tête-bêche reliées à la base B)
 C
@@ -51,10 +41,6 @@ IC et IE sont négatifs pour un PNP.
 
 2- Le transistor est un élément pouvant être commandé. En effet, selon la valeur du courant injecteur sur la base (IB), le régime de fonctionnement sera différent pour étudier le transistor il faut donc disposer de deux montages.
 
----
-
-### Image 6 (20260131_090831.jpg)
-
 * le montage sur la base du transistor
 * le montage sur la jonction CE
 Afin d'étudier le régime de fonctionnement de transistor nous allons, dans un premier temps, isoler la jonction B -> E puis la jonction CE. Dans les deux cas, nous donnerons le schéma électrique équivalent.
@@ -63,7 +49,3 @@ Jonction
 Cette jonction est en faite une jonction PN ou NP pour respectivement un transistor de type NPN ou PNP. Si donc l'on schématise ainsi :
 
 (Schéma équivalent avec diodes et courants IB, VBE)
-
----
-
-### Image 7 (20260131_090854.jpg)
