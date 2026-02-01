@@ -1,6 +1,3 @@
-### IMAGE 10 (20260131_090730.jpg)
-
-
 I - Diodes d'ajonction ou diodes de Redressement
 
 I-A - Constitution
@@ -14,8 +11,6 @@ I-2 Symbole
 
 A (Anode) -> K (cathode)
 (Dessin du symbole de la diode avec le triangle et la barre)
-
-### Image 1 (20260131_090746.jpg)
 
 Limites en courant
 
@@ -38,10 +33,6 @@ Exemple :
 * modulation de système de télécommunication
 
 1-6-2 d'emploi plus restreint, elle remplace les diodes au germanium pour fonctionnement
-
----
-
-### Image 2 (20260131_090749.jpg)
 
 ...de température et de fréquence plus élevée
 
