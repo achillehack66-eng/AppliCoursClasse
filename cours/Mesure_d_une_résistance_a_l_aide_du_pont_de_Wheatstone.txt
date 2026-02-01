@@ -1,5 +1,3 @@
-Image 1 (20260131_090217.jpg)
-
 OA: Mesurer avec précision la valeur d’une résistance inconnue à l’aide du pont de Wheatstone
 
 Mesure d’une résistance à l’aide du pont de Wheatstone
@@ -19,10 +17,6 @@ Principe du pont
 
 Le pont de Wheatstone consiste en un circuit électrique comportant trois résistance connue et un 4ème à déterminer et alimenté par un générateur de courant électrique considérons alors le circuit ou R1 et R2 sont connus R3 est une résistance réglable et RX une résistance inconnue. Les deux ponts C et D sont reliés par un galvanomètre
 
----
-
-### Image 2 (20260131_090228.jpg)
-
 3- Démarche expérimental
 
 Pour déterminer la valeur de la résistance inconnue RX il faut ajuster la valeur de la résistance R3 dans le pont juste jusqu’à ce qu’on annule l’intensité entre les deux branche du pont en agissant sur la résistance R3, R1, R2 on dit alors il est possible d'annuler le courant dans le galvanomètre on dit alors que le pont est équilibré.
@@ -35,9 +29,5 @@ UR3 = R3 I3
 R1/R2 = RX/R3
 
 RX = (R1 x R3) / R2
-
----
-
-### Image 3 (20260131_090234.jpg)
 
 Le pont de Wheatstone est une méthode très précis pour mesuré le passé de une résistance inconnu, il est basé sur l’équilibre d’un pont électrique et permet d’obtenir une valeur exacte sans utilisé de multimètre, il est beaucoup utilisé en laboratoire et dans le processus de mesure précise.
