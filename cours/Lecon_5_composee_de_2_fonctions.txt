@@ -1,0 +1,27 @@
+Leçon 5 : composée de 2 fonctions
+L.2 - Ensemble de définition de la composée de 2 fonctions
+a) Définition :
+b) Activité :
+Soit f et g sont deux fonctions. Pour déterminer l'ensemble de définition de g o f, on détermine l'ensemble des x vérifiant x ∈ Df et f(x) ∈ Dg.
+
+Notation :
+Dg o f = {x ∈ Df | f(x) ∈ Dg}
+
+b) Activité :
+Soit f : x ---> 1 / (x - 2) et g : x ---> √x
+
+1/ Déterminons Dg o f.
+Dg o f : {x ∈ R | x ∈ Df et f(x) ∈ Dg}
+
+x ∈ Df <=> x ≠ 2
+f(x) ∈ Dg <=> 1 / (x - 2) ≥ 0 car g(x) = √x
+
+Tableau de signes :
+
+## x           | -∞           2           +∞
+
+## x - 2       |      -       |      +
+
+## 1 / (x - 2) |      -       ||     +
+
+Dg o f = ]2 ; +∞[
