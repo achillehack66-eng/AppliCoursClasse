@@ -1,5 +1,3 @@
-### IMAGE 1 (20260131_090431.jpg)
-
 CHAPITRE 1 : COURANT ET TENSION
 I - Le courant électrique
 1- Définition
@@ -16,10 +14,6 @@ Par convention, le courant électrique est orienté dans le sens du mouvement de
 [Schéma : Un circuit rectangulaire avec une pile en haut. Borne + à droite, borne - à gauche. Le courant I circule de la borne + vers la borne - (sens horaire). Au milieu, une flèche "e-" indique le sens des électrons de la borne - vers la borne +. En bas, une lampe représentée par un cercle avec une croix.]
 
 4- Mesure de l'intensité du courant électrique
-
----
-
-### IMAGE 2 (20260131_090441.jpg)
 
 On mesure l'intensité du courant électrique dans un circuit électrique à l'aide d'un ampèremètre que l'on insère dans le circuit.
 
