@@ -1,0 +1,10 @@
+Leçon 7 : Application et bijection
+6.1/ Définition de Application :
+On appelle application toute fonction dans laquelle chaque élément de l'ensemble de départ admet une image dans l'ensemble d'arrivée.
+
+[Image de diagramme de Venn montrant des flèches de A vers B]
+
+6.2/ Définition d'une bijection :
+On appelle bijection ou application bijective toute application dans laquelle chaque élément de l'ensemble d'arrivée admet un antécédent unique de l'ensemble de départ.
+
+[Image de diagramme de Venn montrant une correspondance parfaite 1 pour 1 entre A et B]
