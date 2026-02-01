@@ -1,0 +1,148 @@
+CHAP 3 : Théorème Fondamentaux
+I - Théorème de Thévenin
+1- Énoncé
+En régime continu tout réseau linéaire a deux borne est équivalent à un générateur de tension en série avec sa résistance interne.
+
+2- Principe
+La force électromotrice (Fem), ETh
+La tension de Thévenin s'obtient en calculant la tension à vide du réseau. La résistance interne équivalente (RTH) s'obtient aux bornes de la charge en calculant la résistance interne équivalente du circuit tout en court-circuitant les sources de tension et en ouvrant les sources de courant.
+
+Remarque
+Avant d'appliquer le théorème de Thévenin, il faut débrancher la charge.
+
+3- Application
+[Schéma : Un circuit avec un générateur de tension, une résistance R1 en série, puis un nœud avec une résistance R2 en parallèle et une charge Rc entre les points A et B. Le courant Ic traverse Rc.]
+
+Déterminer :
+
+1. le générateur de Thévenin (ETh, RTh)
+2. calculer Ic. R1 = 10 Ω ; R2 = 5 Ω ; Rc = 2 Ω
+E = 30 V
+
+Solution
+
+1. calcule de ETh et RTh
+ETh = (E x R2) / (R1 + R2)
+ETh = (30 x 5) / (10 + 5)
+ETh = 150 / 15
+ETh = 10 V
+
+[Schéma de gauche : Le circuit pour RTh avec la source de tension court-circuitée. On voit R1 et R2 en parallèle.]
+
+II - Théorème de Norton
+1- Énoncé
+En régime continu tout circuit linéaire a deux bornes est équivalent à un générateur de courant : une source de courant en parallèle avec sa résistance interne.
+
+2- Principe
+On débranche la charge et on calcule la résistance de Norton RN (Résistance de Norton = Résistance de Thévenin). En court-circuitant la source de tension et en ouvrant la source de courant.
+Pour calculer le courant de Norton IN, on débranche la charge et on fait la somme des courants s'il y a plusieurs générateurs.
+
+3- Application
+[Schéma : Circuit avec deux branches contenant chacune un générateur (E1, E2) et une résistance (R1, R2) en parallèle, reliées à une charge RC entre A et B.]
+
+E1 = 36 V ; R1 = 10 Ω
+E2 = 25 V ; R2 = 5 Ω
+RC = 5 Ω
+
+1. calculer les éléments de Norton (RN, IN)
+2. calculer I
+
+1. Énoncé
+Ce théorème est indispensable lorsque qu'un générateur contient plus d'un générateur.
+2. Principe
+Il nous permet de ne tenir compte que d'un seul générateur à la fois à condition de remplacer les autres par leur résistance interne. Le résultat obtenu sera additionné algébriquement.
+
+Schéma :
+(Circuit avec E1 en bas à gauche, R1, R2 au centre, R3 en haut, E2 en haut à droite avec flèche vers le bas, tension V aux bornes de R2).
+
+Données :
+E1 = 12V ; E2 = 20V ; R1 = 10 Ω
+R2 = 15 Ω ; R3 = 10 Ω
+
+Calculer la tension U
+cas 1 (E1 seul)
+
+(Schéma du circuit simplifié avec E1 actif et E2 remplacé par un fil)
+
+R23 = (R2 × R3) / (R2 + R3)
+R23 = (10 × 15) / (10 + 15)
+R23 = 150 / 25
+R23 = 6 Ω
+
+(Schéma équivalent avec R1 en série avec R23)
+
+U1 = (E1 × R23) / (R1 + R23)
+U1 = (12 × 6) / (10 + 6)
+U1 = 72 / 16
+
+U1 = 72 / 16
+U1 = 4,5 V
+
+Cas 2 (E2 seul)
+
+(Schéma du circuit avec E1 passivé/remplacé par un fil)
+
+R12 = (R1 × R2) / (R1 + R2)
+R12 = (10 × 10) / (10 + 10)
+R12 = 100 / 20
+R12 = 5 Ω
+
+(Schéma simplifié avec E2 et R12)
+
+Exercice
+(Schéma avec trois branches en parallèle : R1+E1, R2+E2, R3)
+
+E1 = 30V ; E2 = 20V
+R1 = 10 Ω ; R2 = 10 Ω ; R3 = 5 Ω
+
+Calculer VAB
+
+VAB = (E1/R1 - E2/R2) / (1/R1 + 1/R2 + 1/R3)
+
+VAB = (30/10 - 20/10) / (1/10 + 1/10 + 1/5)
+
+VAB = (3 - 2) / (1/10 + 1/10 + 2/10)
+
+VAB = 1 / (4/10)
+
+VAB = 1 × 10/4
+VAB = 2,5 V
+
+Exercice 2
+(Schéma avec E1 en bas, R1, R2, R3, et E2 en haut)
+
+U1 = 50V ; U2 = 30V
+R1 = 15 Ω ; R2 = 20 Ω ; R3 = 5 Ω
+Calculer la tension U
+
+cas (E1 seul)
+
+(Schéma simplifié)
+
+R23 = (R2 × R3) / (R2 + R3)
+R23 = (20 × 5) / (20 + 5)
+R23 = 100 / 25
+R23 = 4 Ω
+
+U1 = (E1 × R23) / (R1 + R23)
+U1 = (50 × 4) / (15 + 4)
+U1 = 200 / 19
+U1 = 10,52 V
+
+cas (E2 seul)
+
+(Schéma simplifié avec E2)
+
+R12 = (R1 × R2) / (R1 + R2)
+R12 = (15 × 20) / (15 + 20)
+R12 = 300 / 35
+R12 = 8,57 Ω
+
+U2 = (-E2 × R12) / (R3 + R12)
+U2 = (-30 × 8,57) / (5 + 8,57)
+U2 = -257,1 / 13,57
+U2 = -18,94 V
+
+U = U1 + U2
+U = 10,52 - 18,94
+U = -8,42 V
