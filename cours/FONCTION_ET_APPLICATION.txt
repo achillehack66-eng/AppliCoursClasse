@@ -1,6 +1,4 @@
-### Image 3 : Fonctions et Applications
-
-CHAP : FONCTION ET APPLICATION
+CHAP 3 : FONCTION ET APPLICATION
 Rappel
 1.1 FONCTION
 On appelle fonction toute relation d'un ensemble A vers un ensemble B qui à chaque élément de l'ensemble de départ associe un élément dans l'ensemble B.
