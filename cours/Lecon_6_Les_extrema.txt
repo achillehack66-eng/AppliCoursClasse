@@ -1,0 +1,12 @@
+Leçon 6 : Les extréma
+
+Définition :
+On appelle extréma d'une fonction les maximums et minimums d'une fonction, c'est-à-dire les points les plus hauts et les points les plus bas de sa courbe. Pour trouver les extréma, on utilise la dérivée de la fonction.
+
+[Image du graphique avec un point M (maximum) et un point m (minimum)]
+
+5.1/ Maximum
+Le maximum d'une fonction est la plus grande valeur que la fonction atteint sur un intervalle fermé donné, noté M. Elle est telle que quelque soit ∀ x ∈ Df, f(x) ≤ M.
+
+5.2/ Minimum
+On appelle minimum d'une fonction la plus petite valeur que la fonction atteint sur un intervalle donné, noté m. Elle est telle que ∀ x ∈ Df, f(x) ≥ m.
