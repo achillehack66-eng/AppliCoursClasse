@@ -1,0 +1,64 @@
+Leçon 3 : Opérations sur les fonctions
+
+3.1 Comparaison de 2 fonctions
+a) Définition :
+Soit f et g deux fonctions numériques. Soit (Cf) et (Cg) les représentations graphiques respectives de f et g on dit que :
+
+1. f < g si ∀ x ∈ ℝ, f(x) < g(x) dans ce cas (Cf) est au-dessous de (Cg).
+2. f > g si ∀ x ∈ ℝ, f(x) > g(x) dans ce cas (Cf) est au-dessus de (Cg).
+3. f = g si ∀ x ∈ ℝ, f(x) = g(x) alors (Cg) et (Cf) sont confondues sur I ⊂ ℝ.
+
+b) Activité 1 :
+f : x ↦ (x - 2) / (x + 3) et g : x ↦ (2x + 1) / (2x - 1)
+
+1. Déterminez Df et Dg.
+2. Comparez f et g sur ℝ.
+
+3.2 Somme, produit et quotient de 2 fonctions :
+
+a) Définition :
+Soit f et g deux fonctions numériques et soit α ∈ ℝ un nombre réel non nul. α ∈ ℝ*.
+
+1°) La fonction α f est la définie par :
+∀ x ∈ ℝ, (αf)(x) = α f(x)
+
+2°) f + g : ∀ x ∈ ℝ, (f + g)(x) = f(x) + g(x)
+3°) f x g : ∀ x ∈ ℝ, (f x g)(x) = f(x) x g(x)
+4°) 1/g : ∀ x ∈ ℝ, g(x) ≠ 0 et (1/g)(x) = 1 / g(x)
+5°) f/g : ∀ x ∈ ℝ, g(x) ≠ 0 et (f/g)(x) = f(x) / g(x)
+
+3.3 Somme, produit et quotient :
+
+b) Activité :
+f : ℝ → ℝ, x ↦ (x - 1) / (x + 3) et g : ℝ → ℝ, x ↦ (2x + 1) / (x - 1)
+
+1. Df et Dg.
+2. Donnez les expressions de :
+a) f + g ; b) f x g et c) f/g
+
+Réponse :
+1°) f(x) existe ssi x + 3 ≠ 0 ⇔ x ≠ -3
+Df = ℝ \ {-3}
+ℝ \ {-3} = ]-∞ ; -3[ ∪ ]-3 ; +∞[
+
+g(x) existe ssi x - 1 ≠ 0 ⇔ x ≠ 1
+Dg = ℝ \ {1}
+
+2/ Les expressions :
+a) (f + g)(x) = f(x) + g(x)
+f(x) + g(x) = (x - 1) / (x + 3) + (2x + 1) / (x - 1)
+= [(x - 1)² + (x + 3)(2x + 1)] / [(x + 3)(x - 1)]
+= [x² - 2x + 1 + 2x² + 7x + 3] / [x² + 2x - 3]
+
+f(x) + g(x) = (3x² + 5x + 4) / (x² + 2x - 3)
+
+b) f x g(x)
+(f x g)(x) = f(x) x g(x)
+= [(x - 1) / (x + 3)] x [(2x + 1) / (x - 1)]
+= (2x + 1) / (x + 3)
+
+c) (f/g)(x) = f(x) / g(x)
+
++ 3)] / [(2x + 1) / (x - 1)] = (x - 1) / (x + 3) x (x - 1) / (2x + 1) = (x - 1)² / [(x + 3)(2x + 1)]
+= (x² - 2x + 1
+[(x - 1) / (x ) / (2x² + 7x + 3)
