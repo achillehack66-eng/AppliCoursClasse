@@ -1,5 +1,3 @@
-### IMAGE 8 (20260131_090659.jpg)
-
 CHAPS : Théorème de Kennelly
 
 Une maille triangulaire ABC appartenant à un réseau, et ne comportant que les résistances RAB ; RBC ; RCA peut être remplacer par trois résistance RA ; RB ; RC disposer en étoile et ayant pour valeurs :
@@ -10,10 +8,6 @@ Une maille triangulaire ABC appartenant à un réseau, et ne comportant que les 
 
 RA = (RAB × RAC) / (RAB + RAC + RBC)
 RB = (RBC × RAB) / (RAB + RAC + RBC)
-
----
-
-### IMAGE 9 (20260131_090702.jpg)
 
 (Schéma de transformation avec nœud O)
 
