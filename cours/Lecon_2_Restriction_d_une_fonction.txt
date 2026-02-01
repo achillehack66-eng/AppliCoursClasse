@@ -33,3 +33,5 @@ f(x) = x - 1 + 2x = 3x - 1
 [ 1 ; +∞ [ ---> R
 g : x ---> 3x - 1
 g est la restriction de f sur [ 1 ; +∞ [
+
+Déterminez la restriction de f sur I = [-1 ; 1].
