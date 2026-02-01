@@ -1,5 +1,3 @@
-### Image 1 : Inéquations Trigonométriques (Cos)
-
 Leçon 4 : Inéquation Trigonométrique
 4-1/ Propriété
 Pour résoudre les inéquations Trigonométriques on se base sur la résolution des équations Trigonométriques.
@@ -12,10 +10,6 @@ x = π/3 + 2kπ ou x = -π/3 + 2kπ
 
 x = [ -π/3 + 2kπ ; π/3 + 2kπ ]
 SR = [ -π/3 + 2kπ ; π/3 + 2kπ ] k ∈ Z
-
----
-
-### Image 2 : Inéquations Trigonométriques (Sin et Tg)
 
 2. sin y = ½
 y = π/6 + 2kπ
