@@ -1,5 +1,3 @@
-### IMAGE 4 (20260131_085235.jpg)
-
 CHAPITRE 2 : ANGLE ORIENTÉ ET TRIGONOMÉTRIE
 Leçon 1 : Angle orienté
 1.1 Rappel
@@ -17,10 +15,6 @@ b - Valeur remarquable
 b-1 - Expression des angles
 La mesure conventionnelle des angles est le radian.
 Radian (rd)  π (rd) correspond...
-
----
-
-### IMAGE 5 (20260131_085238.jpg)
 
 (Schéma du cercle trigonométrique avec 0, π/2, π, 3π/2, 2π)
 
@@ -44,10 +38,6 @@ cotg x = cos x / sin x
 
 NB : les fonctions sin, cos, Tg et cotg sont des lignes trigonométriques.
 
----
-
-### IMAGE 6 (20260131_085253.jpg)
-
 1.2 Angle orienté
 a) Définition
 Un angle orienté est un angle défini dans le sens du cercle trigonométrique ou sens opposé.
@@ -59,10 +49,6 @@ Ex : π/3 (sens Trigonométrique)
 
 b) Mesure principale d'un angle orienté
 Soit (u; v) un angle orienté, Il existe un réel α / α ∈ [0 ; 2π] et mesure (u; v) = α alors que α est la mesure principale de l'angle orienté (u; v).
-
----
-
-### IMAGE 7 (20260131_085256.jpg)
 
 (Schéma du cercle avec vecteurs u et v, angle α)
 
@@ -77,10 +63,6 @@ On prend ] -π ; π ]
 
 Résolution
 Trouvons la mesure principale de 19π/6 dans I = ] -π ; π ]
-
----
-
-### IMAGE 8 (20260131_085304.jpg)
 
 -π < 19π/6 + 2kπ ≤ π
 divisons par π
