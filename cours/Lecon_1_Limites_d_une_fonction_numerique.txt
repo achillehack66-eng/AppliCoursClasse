@@ -1,6 +1,5 @@
-### Image 7 : Notion de Limite
-
 13/01/26
+
 CHAP : LIMITES ET CONTINUITÉ
 Leçon 1 : Limites d'une fonction numérique
 1.1 Notion de limite en un réel
@@ -21,10 +20,6 @@ b) Propriété
 Soit f une fonction définie en a. Si f admet une limite en a alors :
 lim f(x) = f(a)
 x -> a
-
----
-
-### Image 8 : Remarques sur les limites
 
 Exemple : f(x) = (x² - 1) / (x - 1)
 1°/ f est une fonction rationnelle
@@ -49,11 +44,8 @@ Une fonction non définie en un réel peut admettre une limite en ce réel.
 Rm 4 :
 S'il existe un intervalle ouvert de centre x0 sur lequel la fonction f n'est pas définie alors f n'admet pas de limite au point 0.
 
----
-
-### Image 9 : Limites de polynômes
-
 22/01/26
+
 Propriété : La limite à +∞ ou à -∞ d'une fonction polynôme est la limite à +∞ ou à -∞ de son monôme de plus haut degré.
 
 Exemple :
@@ -82,10 +74,6 @@ Réponse :
 
 1. lim (-5x³) = +∞
 x -> -∞
-
----
-
-### Image 10 : Exercices Limites
 
 2. lim (-2x⁷) = -∞
 x -> +∞
