@@ -7,18 +7,25 @@
       "nom": "Mathématiques",
       "lecons": [
         {
-          "titre": "Nombres Complexes",
-          "url_txt": "https://ton-serveur.com/api/maths/nombres-complexes.txt",
+          "titre": "Equations du 2nd degré dans ℝ",
+          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Equations_du_2nd_degre_dans_R.txt",
           "image_url": [
-            "https://ton-serveur.com/images/maths/complexes-1.jpg",
-            "https://ton-serveur.com/images/maths/complexes-schema.png"
+            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_084954.jpg",
+            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085002.jpg",
+            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085023.jpg"
+    
           ]
         },
         {
-          "titre": "Fonctions Logarithmes",
+          "titre": "Leçon 2 : Inéquation du 2nd degré dans ℝ",
           "url_txt": "https://ton-serveur.com/api/maths/logarithmes.txt",
           "image_url": [
-            "https://ton-serveur.com/images/maths/log-graphique.jpg"
+            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085028.jpg",
+            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085037.jpg",
+            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085039.jpg",
+            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085045.jpg",
+            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085048.jpg",
+            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085057.jpg"
           ]
         }
       ]
