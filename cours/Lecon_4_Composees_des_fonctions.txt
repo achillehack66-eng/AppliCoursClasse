@@ -1,0 +1,34 @@
+Leçon 4 : Composées des fonctions
+4-1 - Composition des fonctions
+a) Définition :
+Soit A, B et C trois ensembles, soit f une fonction de A vers B et g une fonction de B vers C. On appelle composée de f par g la fonction de A vers C notée : g o f(x).
+On lit « g rond f »
+
+f        g
+A ------> B ------> C
+|                   ^
+|___________________|
+g o f
+
+b) Activité :
+f : x ---> 1 / (x - 2)          g : x ---> √x
+(Note : dans tes ensembles, f et g vont de R vers R)
+
+1. Df et Dg
+2. Déterminez l'expression de g o f(x)
+
+Résolution :
+
+1. f(x) existe ssi x - 2 ≠ 0 <=> x ≠ 2
+Df = R - {2}
+
+g(x) existe ssi x ≥ 0 <=> x ∈ [0 ; +∞[
+Dg = [0 ; +∞[ = R+
+
+2. ∀ x ∈ Df et Dg,
+g o f(x) = g[f(x)]
+= √(1 / (x - 2))
+
+g o f : x ---> √(1 / (x - 2))
+
+(Note prof en bas : Le cadre, 1,5 / 2, Titres, les sous-titres, soulignez à la règle. Note globale : 14/20)
