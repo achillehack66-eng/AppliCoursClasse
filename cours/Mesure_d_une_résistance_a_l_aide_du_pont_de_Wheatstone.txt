@@ -1,4 +1,4 @@
-OA: Mesurer avec précision la valeur d’une résistance inconnue à l’aide du pont de Wheatstone
+OA: ygygiuhuh Mesurer avec précision la valeur d’une résistance inconnue à l’aide du pont de Wheatstone
 
 Mesure d’une résistance à l’aide du pont de Wheatstone
 
