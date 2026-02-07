@@ -49,3 +49,4 @@ Jonction
 Cette jonction est en faite une jonction PN ou NP pour respectivement un transistor de type NPN ou PNP. Si donc l'on schématise ainsi :
 
 (Schéma équivalent avec diodes et courants IB, VBE)
+vdvdvdvdvdvdvdvdvdvdvdvdvdvddvsdqvqvqsvqsvqsvsqvsqvqqvqvdqsv
