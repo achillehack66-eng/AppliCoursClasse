@@ -1,6 +1,8 @@
-Leçon 4 : Composées des fonctions
-4-1 - Composition des fonctions
-a) Définition :
+@Leçon 4 : Composées des fonctions
+
+@4-1 - Composition des fonctions
+
+@a) Définition :
 Soit A, B et C trois ensembles, soit f une fonction de A vers B et g une fonction de B vers C. On appelle composée de f par g la fonction de A vers C notée : g o f(x).
 On lit « g rond f »
 
@@ -10,7 +12,7 @@ A ------> B ------> C
 |___________________|
 g o f
 
-b) Activité :
+@b) Activité :
 f : x ---> 1 / (x - 2)          g : x ---> √x
 (Note : dans tes ensembles, f et g vont de R vers R)
 
