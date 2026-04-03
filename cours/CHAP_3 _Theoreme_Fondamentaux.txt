@@ -1,25 +1,31 @@
-CHAP 3 : Théorème Fondamentaux
-I - Théorème de Thévenin
-1- Énoncé
+@CHAP 3 : Théorème Fondamentaux
+
+@I - Théorème de Thévenin
+
+@1- Énoncé
+
 En régime continu tout réseau linéaire a deux borne est équivalent à un générateur de tension en série avec sa résistance interne.
 
-2- Principe
+@2- Principe
+
 La force électromotrice (Fem), ETh
 La tension de Thévenin s'obtient en calculant la tension à vide du réseau. La résistance interne équivalente (RTH) s'obtient aux bornes de la charge en calculant la résistance interne équivalente du circuit tout en court-circuitant les sources de tension et en ouvrant les sources de courant.
 
-Remarque
+@Remarque
+
 Avant d'appliquer le théorème de Thévenin, il faut débrancher la charge.
 
-3- Application
+@3- Application
+
 [Schéma : Un circuit avec un générateur de tension, une résistance R1 en série, puis un nœud avec une résistance R2 en parallèle et une charge Rc entre les points A et B. Le courant Ic traverse Rc.]
 
-Déterminer :
+@Déterminer :
 
-1. le générateur de Thévenin (ETh, RTh)
-2. calculer Ic. R1 = 10 Ω ; R2 = 5 Ω ; Rc = 2 Ω
+@1. le générateur de Thévenin (ETh, RTh)
+@2. calculer Ic. R1 = 10 Ω ; R2 = 5 Ω ; Rc = 2 Ω
 E = 30 V
 
-Solution
+@Solution
 
 1. calcule de ETh et RTh
 ETh = (E x R2) / (R1 + R2)
@@ -29,33 +35,41 @@ ETh = 10 V
 
 [Schéma de gauche : Le circuit pour RTh avec la source de tension court-circuitée. On voit R1 et R2 en parallèle.]
 
-II - Théorème de Norton
-1- Énoncé
+@II - Théorème de Norton
+
+@1- Énoncé
+
 En régime continu tout circuit linéaire a deux bornes est équivalent à un générateur de courant : une source de courant en parallèle avec sa résistance interne.
 
-2- Principe
+@2- Principe
+
 On débranche la charge et on calcule la résistance de Norton RN (Résistance de Norton = Résistance de Thévenin). En court-circuitant la source de tension et en ouvrant la source de courant.
 Pour calculer le courant de Norton IN, on débranche la charge et on fait la somme des courants s'il y a plusieurs générateurs.
 
 3- Application
+
 [Schéma : Circuit avec deux branches contenant chacune un générateur (E1, E2) et une résistance (R1, R2) en parallèle, reliées à une charge RC entre A et B.]
 
 E1 = 36 V ; R1 = 10 Ω
 E2 = 25 V ; R2 = 5 Ω
 RC = 5 Ω
 
-1. calculer les éléments de Norton (RN, IN)
-2. calculer I
+@1. calculer les éléments de Norton (RN, IN)
 
-1. Énoncé
+@2. calculer I
+
+@1. Énoncé
+
 Ce théorème est indispensable lorsque qu'un générateur contient plus d'un générateur.
-2. Principe
+
+@2. Principe
+
 Il nous permet de ne tenir compte que d'un seul générateur à la fois à condition de remplacer les autres par leur résistance interne. Le résultat obtenu sera additionné algébriquement.
 
 Schéma :
 (Circuit avec E1 en bas à gauche, R1, R2 au centre, R3 en haut, E2 en haut à droite avec flèche vers le bas, tension V aux bornes de R2).
 
-Données :
+@Données :
 E1 = 12V ; E2 = 20V ; R1 = 10 Ω
 R2 = 15 Ω ; R3 = 10 Ω
 
