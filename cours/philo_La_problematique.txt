@@ -1,13 +1,13 @@
-2 - La problématique
+@2 - La problématique
 La problématisation du sujet comporte le problème et les aspects du problème. En effet, le problème est l'élément le plus important d'une dissertation. Il permet non seulement d'entamer la discussion mais aussi il met en exergue la difficulté centrale que soulève le sujet. Il apparaît à partir d'une contradiction ou d'un paradoxe situé au cœur du sujet. Quant aux aspects du problème, ils annoncent les axes du développement. Les aspects du problème sont posés sous forme de questions.
 
-**L'ÉTUDE PARCELLAIRE**
+@**L'ÉTUDE PARCELLAIRE**
 **Activité d'application N°1 : Procède à l'analyse conceptuelle de ce sujet.**
 Sujet : La science fait-elle le bonheur de l'homme ?
 
-**Etude ordonnée**
+@**Etude ordonnée**
 La science : c'est une connaissance acquise par l'étude, la raison acquis par l'expérience fait participer, contribue-t-elle bonheur : c'est le bien être de l'accomplissement de l'homme, l'être humain.
 
-**Activité d'application N°2 : Procède à la reformulation de ce sujet.**
+@**Activité d'application N°2 : Procède à la reformulation de ce sujet.**
 
 * La connaissance acquise par une étude contribue t-elle au bien être de l'homme ?
