@@ -1,7 +1,9 @@
-**II- Language Skills**
-**A- language focus**
+@**II- Language Skills**
+
+@**A- language focus**
 The need to adopt alternative energies is also getting
-B- Grammar check : Present continuous active :
+
+@B- Grammar check : Present continuous active :
 Rule : S + is/am/are + V + ing
 The need to adapt alternative energies is also growing
 (subject) (verb)
@@ -9,24 +11,25 @@ The need to adapt alternative energies is also growing
 Use : We use the present continuous active when the subject is doing the action now consolidation
 Put the verbs into brackets in the present continuous active
 
-**III - Language Skills II**
-**A- language focus**
+@**III - Language Skills II**
+
+@**A- language focus**
 Ex : Oil production is being actively debated Worldwide
-B- Grammar check : Present continuous passive
+
+@B- Grammar check : Present continuous passive
 Rule : We use the present continuous passive to describe an action when the subject is undergoing the action now
 
----
+@**Activity 4: Language focus**
 
-### Image 7 (20260131_091205.jpg)
-
-**Activity 4: Language focus**
 **Present continuous: active and passive**
-A. Read the sentences below. Which one is active or passive?
 
-1. The need to adopt alternative energy sources is also growing.
-2. Oil production is being actively debated worldwide.
+@A. Read the sentences below. Which one is active or passive?
 
-B. Use the following prompts to build sentences in the present continuous active.
+@1. The need to adopt alternative energy sources is also growing.
+
+@2. Oil production is being actively debated worldwide.
+
+@B. Use the following prompts to build sentences in the present continuous active.
 
 1. Environmental movements (emphasize) on the protection of the environment.
 Environmental movements are emphasizing on the protection of the environment.
@@ -43,7 +46,7 @@ A lot of waste is being discharged.
 7. Solar power (use) to produce electricity.
 Solar power is being used.
 
-**Activity 5: Consolidation**
+@**Activity 5: Consolidation**
 What major energy problem is Cote d'Ivoire facing these years? Think of power cut, environmental problems, etc. What is being done to solve the problems?
 
 * To undergo = subir
