@@ -1,8 +1,8 @@
-Auteur : EPICURE
-Source : Lettre à Ménécée
-Numérotation : 15 lignes
+@Auteur : EPICURE
+@Source : Lettre à Ménécée
+@Numérotation : 15 lignes
 
-1. Identification des mots, expressions essentiels et ou difficiles du texte
+@1. Identification des mots, expressions essentiels et ou difficiles du texte
 
 Hésiter (L1) : s'abstenir, douter
 Se lasser (L2) : se fatiguer de
@@ -17,10 +17,10 @@ Quand (L1) : connecteur de temps
 car (L2) : connecteur de justification
 Donc (L6) : connecteur de conséquence
 
-II- La problématique du texte
+@II- La problématique du texte
 La problématique d'un texte c'est l'ensemble constitué de thèmes de la grille de lecture, du questionnaire, une série de questions qui permet de dégager la problématique.
 
-a - Identification du questionnaire et de son correspondant (la grille de lecture)
+@a - Identification du questionnaire et de son correspondant (la grille de lecture)
 
 1- De quoi parle le texte ? Idem - thème :
 Le thème est ce dont parle le texte ou le sujet abordé dans le texte.
@@ -49,7 +49,7 @@ La structure logique d'un texte ce sont les différents moments du texte.
 
 Résolution de l’activité d’application N°2
 
-II/ La problématique du texte
+@II/ La problématique du texte
 Dégageons les thèmes de la problématique du texte d’Epicure.
 
 Thème : l'âge précis de la philosophie
@@ -65,7 +65,7 @@ philosopher
 
 Anti thèse : Il existe un âge pour philosopher
 
-III/ L’explication méthodique du texte
+@III/ L’explication méthodique du texte
 
 C’est une explication organisée qui présente la cohérence du texte. Elle consiste à montrer l'idée principale et les idées secondaires. Montrer ce qui guide la compréhension du paragraphe ou du mouvement d'un texte, quand l'idée secondaire c'est une idée qui explique l'idée principale chaque idée principale est secondée par plusieurs idées secondaires.
 
@@ -79,15 +79,15 @@ Idée principale : Il y a plusieurs raisons de protéger la nature.
 
 PARTIE : (L1-L5)
 
-III- La critique du texte
+@III- La critique du texte
 
 C'est analyse qui consiste à évaluer l'intérêt d'un texte cette analyse comporte deux parties la critique interne et la critique externe.
 
-A- Critique Interne
+@A- Critique Interne
 
 Elle consiste à apprécier la valeur du texte par rapport à lui même
 
-B- La critique Externe
+@B- La critique Externe
 
 C'est une critique de fond, il s'agit d'apprécier la valeur du texte par rapport à d'autre
 
