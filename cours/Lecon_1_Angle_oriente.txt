@@ -1,8 +1,13 @@
-CHAPITRE 2 : ANGLE ORIENTÉ ET TRIGONOMÉTRIE
-Leçon 1 : Angle orienté
-1.1 Rappel
-a) Le cercle trigonométrique
-a.1) Définition
+@CHAPITRE 2 : ANGLE ORIENTÉ ET TRIGONOMÉTRIE
+
+@Leçon 1 : Angle orienté
+
+@1.1 Rappel
+
+@a) Le cercle trigonométrique
+
+@a.1) Définition
+
 Le cercle trigonométrique est un cercle orienté dans le sens contraire des aiguilles d'une montre dont le centre est généralement O de Rayon 1.
 
 (Schéma du cercle avec axes Sin et Cos, Rayon R, point M)
@@ -10,9 +15,10 @@ Le cercle trigonométrique est un cercle orienté dans le sens contraire des aig
 Rayon R = 1
 OM = R
 
-a-2 Illustration
-b - Valeur remarquable
-b-1 - Expression des angles
+@a-2 Illustration
+@b - Valeur remarquable
+@b-1 - Expression des angles
+
 La mesure conventionnelle des angles est le radian.
 Radian (rd)  π (rd) correspond...
 
@@ -36,10 +42,12 @@ b.3) sin, cos, Tg et cotg
 tg x = sin x / cos x
 cotg x = cos x / sin x
 
-NB : les fonctions sin, cos, Tg et cotg sont des lignes trigonométriques.
+@NB : les fonctions sin, cos, Tg et cotg sont des lignes trigonométriques.
 
-1.2 Angle orienté
-a) Définition
+@1.2 Angle orienté
+
+@a) Définition
+
 Un angle orienté est un angle défini dans le sens du cercle trigonométrique ou sens opposé.
 
 (Schéma du cercle avec angle x positif et angle -y négatif)
@@ -47,21 +55,21 @@ Un angle orienté est un angle défini dans le sens du cercle trigonométrique o
 Ex : π/3 (sens Trigonométrique)
 -π/4 (sens contraire du sens Trigonométrique)
 
-b) Mesure principale d'un angle orienté
+@b) Mesure principale d'un angle orienté
 Soit (u; v) un angle orienté, Il existe un réel α / α ∈ [0 ; 2π] et mesure (u; v) = α alors que α est la mesure principale de l'angle orienté (u; v).
 
 (Schéma du cercle avec vecteurs u et v, angle α)
 
-c) Propriété :
+@c) Propriété :
 Soit (u; v) un angle orienté et α sa mesure principale.
 On appelle mesure principale de l'angle orienté (u; v) tout nombre réel de la forme α + 2kπ ou k ∈ Z.
 α ∈ [0 ; 2π] ou [-π ; π]
 
-d) Activité
+@d) Activité
 Donner la mesure principale de l'angle orienté 19π/6 dans l'intervalle ] -π ; π ]
 On prend ] -π ; π ]
 
-Résolution
+@Résolution
 Trouvons la mesure principale de 19π/6 dans I = ] -π ; π ]
 
 -π < 19π/6 + 2kπ ≤ π
@@ -78,5 +86,5 @@ k = -2
 α = 19π/6 - 4π = (19π - 24π) / 6
 α = -5π/6
 
-Activité 2
+@Activité 2
 Placer les images des angles π/6 et 3π/2 sur le cercle trigonométrique dans l'intervalle [ 0 ; 2π ]
