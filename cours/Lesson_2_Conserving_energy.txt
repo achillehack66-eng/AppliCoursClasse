@@ -1,4 +1,4 @@
-**Lesson 2 : Conserving energy**
+@**Lesson 2 : Conserving energy**
 **Warm up : the date**
 Brainstorming :
 Ram : Exercise PB
@@ -12,18 +12,21 @@ Picture 1 :
 3- Yes, these pictures is incandescent (consume more energy)
 
 Picture 2 : is fluorescent
-C- Reading for comprehension
+@C- Reading for comprehension
 The text with the CFLS (compact fluorescent lamps) as a means of reducing energy consumption.
 
-**B- Reading and explanation**
+@**B- Reading and explanation**
+
 **C- Vocabulary check**
 **Activity 2 : Word Study PB**
-**B- Word finding**
+
+@**B- Word finding**
+
 1- light fixture : installation électriques
 2- direct current : courant qui circule dans une même direction
 3- Alternating current : courant qui change
 
-**Activity 2: Word Study**
+@**Activity 2: Word Study*
 A. Read the text again and find words or phrases whose meanings are given below.
 
 1. insert (line 5) : fit into = fit into
@@ -36,7 +39,7 @@ A. Read the text again and find words or phrases whose meanings are given below.
 8. distributions of free samples (line 23) : handouts = dons gratuits d'échantillon
 9. paid part of the cost of something (line 23) : subsidizing = subventionné ou...
 
-B. As you read the text, find the phrases behind these descriptions. Paragraphs are given.
+@B. As you read the text, find the phrases behind these descriptions. Paragraphs are given.
 
 1. permanently fixed equipment people put light or lamps in (par. 2) : light fixtures : d'onde réglée
 2. current that always flows in the same direction (par. 3) : direct current : courant qui circule
@@ -45,7 +48,7 @@ B. As you read the text, find the phrases behind these descriptions. Paragraphs 
 5. devices used to produce solar energy (par. 4) : solar panel : panneau solaire
 6. companies that supply electricity to a community (par. 4) : electricity companies
 
-**Activity 3: Comprehension**
+@**Activity 3: Comprehension**
 A. True or False Statements
 
 1. Halogen and compact fluorescent bulbs are more and more used today. T (line 1-3)
@@ -55,33 +58,33 @@ A. True or False Statements
 5. It is easy to get rid of fluorescent lamps. F (l. 19-l. 20)
 6. Compact fluorescent lamps are recyclable. T (l. 21)
 
-**B. Answer these questions.**
+@**B. Answer these questions.**
 1- What batters the color of the light transmitted by CFLs?
 By the improved phosphor formulations...
 
-3 - Despite the risky use of CFLs, why have they been adopted?
+@3 - Despite the risky use of CFLs, why have they been adopted?
 Their potential to reduce electric consumption and pollution.
 
-4 - How are populations encouraged to use fluorescent lamps?
+@4 - How are populations encouraged to use fluorescent lamps?
 Publicity to improve awareness.
 Direct handouts of CFLs to the public.
 Governmental subsidies for CFLs.
 Free samples to consumers.
 
-C. Read the text again and complete the table below.
+@C. Read the text again and complete the table below.
 
 |  | SIMILARITIES | DIFFERENCES |
 | --- | --- | --- |
 | Incandescent lamp | 1. ................................. | - Energy consuming - Non durable |
 | Fluorescent lamp | 2. ................................. | 1. ................................. 2. Durable 3. ................................. 4. ................................. 5. ................................. 6. ................................. 7. ................................. 8. Use in recreational vehicles and off-the-grid housing |
 
-Activity 5: Skills Focus - Interpreting and Making Graphs
+@Activity 5: Skills Focus - Interpreting and Making Graphs
 
 1. [Pie Chart]
 2. [Bar Graph]
 3. [Line Graph]
 
-B. The verbs or nouns in the table below are used to describe the movement on a graph. Complete it accordingly.
+@B. The verbs or nouns in the table below are used to describe the movement on a graph. Complete it accordingly.
 
 | Movements | Verbs | Nouns |
 | --- | --- | --- |
@@ -89,26 +92,27 @@ B. The verbs or nouns in the table below are used to describe the movement on a 
 | Downward movement | fall, drop, decline, reduce, decrease | drop, decline, reduction, decrease |
 | Up and down | fluctuate | fluctuation |
 
-PART ONE: Reading for comprehension (8 pts)
-A- Vocabulary check (4 pts)
+@PART ONE: Reading for comprehension (8 pts)
+
+@A- Vocabulary check (4 pts)
 1- c(ex), 2d, 3a, 4e, 5b
 
-B- Comprehension check (4 pts)
-2- Fossil fuels are energies obtained from the decomposition of animals, woods and human beings throughout millions of years.
+@B- Comprehension check (4 pts)
+@2- Fossil fuels are energies obtained from the decomposition of animals, woods and human beings throughout millions of years.
 Ex: coal, petroleum...
-1- coals, petroleum, solar power, hydroelectric power
+@1- coals, petroleum, solar power, hydroelectric power
 
-3- A renewable energy is an energy obtained from sustainable energy sources. They don't emit pollution.
+@3- A renewable energy is an energy obtained from sustainable energy sources. They don't emit pollution.
 Ex: solar power, wind power.
 
-4- The main source of energy used today is fossil fuels (petroleum, gas).
+@4- The main source of energy used today is fossil fuels (petroleum, gas).
 The consequences are pollution.
 
-Part TWO: Language in use (6 pts)
+@Part TWO: Language in use (6 pts)
 TASK A (3 pts)
 1- goes, 2- are making, 3- played, 4- will visit, 5- has already done.
 
-TASK B (3 pts)
+@TASK B (3 pts)
 1- are reducing, 2- are emphasizing, 3- is rising, 4- is being used.
 
 Part Three: Writing (6 pts)
