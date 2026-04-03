@@ -1,8 +1,8 @@
-I- Définition et constitution
-1- Définition
+@I- Définition et constitution
+@1- Définition
 C'est un composant électronique à trois bornes dont le collecteur C, l'émetteur (E) et la base (B). Il a la possibilité d'amplifier le courant dans un circuit mais également de se comporter comme un interrupteur.
 
-2- Constitution
+@2- Constitution
 Il est constitué par un cristal de semi-conducteur (germanium ou silicium) comportant trois zones dopées différemment de façon à former :
 
 * Soit deux zones (N) séparées par une zone B (P) : c'est une transition PNP
@@ -12,8 +12,8 @@ Il est constitué par un cristal de semi-conducteur (germanium ou silicium) comp
 
 Le transistor bipolaire présente deux jonctions PN dont les sens sont opposés. La zone comprise entre les jonctions est très mince : c'est la base du transistor. Une des zones extrêmes est fortement dopée : c'est l'émetteur du transistor. L'autre zone extrême est faiblement dopée : c'est le collecteur du transistor.
 
-II- Symboles
-1- Type NPN
+@II- Symboles
+@1- Type NPN
 
 * Nouveau symbole
 (Schéma du symbole NPN avec les tensions VCB, VBE et VCE)
@@ -32,14 +32,14 @@ E
 Le fonctionnement des deux types de transistors (NPN et PNP)
 Le courant IB commande la jonction CE.
 
-1- Signes des paramètres
+@1- Signes des paramètres
 Dans un transistor bipolaire, le courant collecteur émetteur circule dans le sens indiqué du lecteur.
 IC et IE sont positifs pour un NPN.
 IC et IE sont négatifs pour un PNP.
 
 * VCE et VBE seront négatives.
 
-2- Le transistor est un élément pouvant être commandé. En effet, selon la valeur du courant injecteur sur la base (IB), le régime de fonctionnement sera différent pour étudier le transistor il faut donc disposer de deux montages.
+@2- Le transistor est un élément pouvant être commandé. En effet, selon la valeur du courant injecteur sur la base (IB), le régime de fonctionnement sera différent pour étudier le transistor il faut donc disposer de deux montages.
 
 * le montage sur la base du transistor
 * le montage sur la jonction CE
