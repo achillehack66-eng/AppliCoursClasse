@@ -1,6 +1,6 @@
-OA : Analyser un pont diviseur de tension et un pont diviseur de courant
+@OA : Analyser un pont diviseur de tension et un pont diviseur de courant
 
-Introduction
+@Introduction
 Les circuit-électrique contienne des composant qui exige des niveau de tension ou de courant adapté, lorsqu’une source alimente plusieurs élément il devient nécessaire de réduire ou de partager l’énergie, pour cela on utilise le pont diviseur de tension.
 Le pont diviseur de tension permet de créer une tension parallèle tandis que le pont diviseur de courant répartie l’intensité entre les branche parallèle C'est deux outil joue un rôle essentiel.
 
@@ -8,7 +8,7 @@ Le pont diviseur de tension permet de créer une tension parallèle tandis que l
 1-1 Définition
 un pont diviseur de tension est un montage électronique simple qui permet de diminuer la tension d’entrée constituer par l’exemple de deux résistance en série.
 
-1-2- Principe du diviseur de tension non-chargé
+@1-2- Principe du diviseur de tension non-chargé
 la tension du diviseur sont relier a la masse et les deux résistance R1 et R2 sont connecté en série, une tension U
 
 est appliquer en entrée sur ces deux résistance est la tension de sortie est mesurer aux borne de R2.
@@ -39,7 +39,7 @@ I1 = (G1 / (G1 + G2)) x I
 
 Soit V la tension aux borne de R1 et R2 on a :
 
-[Schéma de deux résistances en parallèle avec les courants I1 et I2]
+@[Schéma de deux résistances en parallèle avec les courants I1 et I2]
 
 I1 = V/R1 et I2 = V/R2
 
