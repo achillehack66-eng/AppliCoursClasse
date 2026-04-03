@@ -1,6 +1,6 @@
-CHAPITRE 2 : Association de dipôles passifs
+@CHAPITRE 2 : Association de dipôles passifs
 
-1. Association en série
+@1. Association en série
 [Schéma : Trois résistances R1, R2 et R3 alignées entre les points A et B. Le courant I entre par A. Flèches de tension U1, U2 et U3 sous chaque résistance, et une grande flèche U pour la tension totale AB.]
 
 UAB = U1 + U2 + U3
@@ -15,12 +15,12 @@ Re = R1 + R2 + R3
 
 Dans un montage en série, la résistance équivalente est égale à la somme de résistance de ce montage.
 
-Application :
+@Application :
 [Schéma : Trois résistances en série : 10 Ω (R1), 5 Ω (R2) et 15 Ω (R3). Tension totale U = 70V.]
 
 Résolution
 
-1. calcul la résistance équivalente
+@1. calcul la résistance équivalente
 Re = R1 + R2 + R3
 Re = 10 + 5 + 15
 Re = 30 Ω
@@ -40,7 +40,7 @@ U3 = R3 x I
 U3 = 15 x 2,33
 U3 = 34,95 V
 
-2- Association en parallèle
+@2- Association en parallèle
 [Schéma : Trois résistances R1, R2 et R3 branchées en dérivation entre les points A et B sous une tension U. Le courant total I se divise en I1, I2 et I3.]
 
 I = I1 + I2 + I3
@@ -56,7 +56,7 @@ Ge = 1/R1 + 1/R2 + 1/R3
 
 Dans une association de résistance en parallèle la conductance équivalente est égale à la somme conductance.
 
-3- Diviseurs de tension
+@3- Diviseurs de tension
 On est en présence d'un diviseur de tension lorsque les résistances sont montées en série.
 
 [Schéma : Deux résistances R1 et R2 en série entre A et B. Courant I. Tensions U1 et U2 indiquées, ainsi que la tension totale.]
@@ -69,7 +69,7 @@ U1 = R1 x I
 I = U / (R1 + R2)
 U1 = (R1 x U) / (R1 + R2)
 
-4- Diviseur de courant
+@4- Diviseur de courant
 On en présence des diviseur de courant lorsque les résistance sont en parallèle.
 
 [Schéma : Deux résistances R1 et R2 en parallèle entre A et B. Courant total I se divisant en I1 et I2 sous une tension U.]
