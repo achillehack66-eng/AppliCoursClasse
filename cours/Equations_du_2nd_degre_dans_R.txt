@@ -1,29 +1,24 @@
-### Fichier : 20260131_084931.jpg
+@Situation d'apprentissage
 
-09/10/25
-Situation d'apprentissage
 Les élèves de la première F2 sont sollicités pour résoudre une équation du 2nd degré sans utilisation de la factorisation. Il se réfère à leur camarade pour les aider à trouver la solution au problème posé.
 
-CHAP 1 : EQUATIONS ET INEQUATIONS DU 2nd DEGRE
+@CHAP 1 : EQUATIONS ET INEQUATIONS DU 2nd DEGRE
 
-Leçon 1 : Equations du 2nd degré dans ℝ
+@Leçon 1 : Equations du 2nd degré dans ℝ
 
-1.1. Rappel
+@1.1. Rappel
 
-a) Définition :
+@a) Définition :
+
 Une équation du 2nd degré c'est une équation de la forme : ax² + bx + c = 0 où a ≠ 0, a, b, c ∈ ℝ avec a ≠ 0.
 a, b et c sont les coefficients et x est l'inconnu.
 Ex : 3x² - 5x + 7 = 0
 -5x² + 6x - ½ = 0
 
-b) La Forme canonique :
+@b) La Forme canonique :
 ax² + bx + c = 0 (a ≠ 0)
 a [(x + b/2a)² - (b² - 4ac)/4a²] = 0
 est la forme canonique de l'équation.
-
----
-
-### Fichier : 20260131_084954.jpg (et 20260131_085002.jpg)
 
 a = 4, b = 12, c = 9
 Δ = 12² - 4 x 4 x 9
@@ -32,9 +27,9 @@ a = 4, b = 12, c = 9
 
 x1 = x2 = -b/2a
 x = -12 / (2 x 4) = (-3 x 4) / (2 x 4)
-S ℝ = { -¾ }
+@S ℝ = { -¾ }
 
-N°3 Résoudre dans ℝ :
+@N°3 Résoudre dans ℝ :
 (E) : x² - 5x + 4 = 0
 a = 1, b = -5, c = 4
 Δ = b² - 4ac
@@ -47,12 +42,8 @@ Si Δ > 0, alors l'équation admet 2 solutions distinctes
 x1 = (-b - √Δ) / 2a et x2 = (-b + √Δ) / 2a
 S ℝ = { (-b - √Δ) / 2a ; (-b + √Δ) / 2a }
 
----
-
-### Fichier : 20260131_085023.jpg
-
 Δ = 9 = 3², √Δ = 3.
 x1 = (-(-5) - 3) / (2 x 1) = (5 - 3) / 2 = 2/2 = 1
 x2 = (-(-5) + 3) / (2 x 1) = (5 + 3) / 2 = 8/2 = 4
 
-S ℝ = { 1, 4 }
+@S ℝ = { 1, 4 }
