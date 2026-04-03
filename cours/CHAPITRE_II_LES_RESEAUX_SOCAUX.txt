@@ -1,12 +1,12 @@
-**CHAPITRE II : LES RÉSEAUX SOCAUX**
+@**CHAPITRE II : LES RÉSEAUX SOCAUX**
 
-**a- Définition**
+@**a- Définition**
 
-**I- Présentation de Facebook**
+@**I- Présentation de Facebook**
 Facebook est le plus grand réseau social dans le monde avec plus de 600 M d'utilisateurs, dont 22 M réside en France. L'utilisateur interagit avec sa moyenne environ 130 amis sur leur page.
 Facebook est un réseau social très populaire dans le monde. Il permet d'être en lien avec des amis, partager des centres d'intérêt et de rejoindre des groupes. Facebook est aujourd'hui le plus grand site de réseau social.
 
-**b- Sur Facebook, on peut :**
+@**b- Sur Facebook, on peut :**
 
 * Retrouver des amis, communiquer avec des amis en ligne
 * on peut faire des publications
@@ -22,7 +22,7 @@ Facebook est un réseau social très populaire dans le monde. Il permet d'être 
 * **Statut :** l'humeur du moment, ce que l'on fait, ce que l'on pense, ce que l'on aime ou qu'on on aime, ou l'on est.
 * **Groupe Facebook, être « fan de » :** se regrouper autour d'un sujet commun
 
-**1- Créer son profil Facebook**
+@**1- Créer son profil Facebook**
 Si vous êtes déjà inscrit, vous pouvez vous connecter avec votre adresse mail et votre mot de passe en cliquant ensuite sur vous connecter.
 Pour vous inscrire, vous devez compléter le formulaire ci-contre.
 
@@ -40,11 +40,11 @@ ces messages ne doivent pas faire plus de 140 caractères Tout comme facebook Tw
 * Ne pas publier sur Internet des contenus sur autrui qui pourraient lui nuire
 * Vérifier régulièrement ce qui est publié vous concernant sur Facebook et autres réseaux Sociaux
 
-**II- Présentation de Twitter**
+@**II- Présentation de Twitter**
 **a- Définition**
 Twitter est un outil de réseau social et de micro blogging qui permet a l'utilisateur d'envoyer des messages courts, appeler tweet (le gazouillis), par internet, par messages instantanés / SMS
 
-**b- Sur Twitter, on peut :**
+@**b- Sur Twitter, on peut :**
 
 * garder le contact avec ses amis
 * tenir un bloc
@@ -52,6 +52,6 @@ Twitter est un outil de réseau social et de micro blogging qui permet a l'utili
 * poser des questions
 * envoyer des SMS gratuitement
 
-**Un peu de vocabulaire :**
+@**Un peu de vocabulaire :**
 
-* Le signe @ : est toujours accolé au pseudo d'un compte Twitter et permet de faire savoir à son destinataire que vous lui adressez un message.
+@* Le signe "@" : est toujours accolé au pseudo d'un compte Twitter et permet de faire savoir à son destinataire que vous lui adressez un message.
