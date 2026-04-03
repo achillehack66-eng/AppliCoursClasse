@@ -1,16 +1,16 @@
-CHAPS : Théorème de Kennelly
+@CHAPS : Théorème de Kennelly
 
 Une maille triangulaire ABC appartenant à un réseau, et ne comportant que les résistances RAB ; RBC ; RCA peut être remplacer par trois résistance RA ; RB ; RC disposer en étoile et ayant pour valeurs :
 
-1. Passage de Triangle en Étoile
+@1. Passage de Triangle en Étoile
 
 (Schéma Triangle vers Étoile)
 
-RA = (RAB × RAC) / (RAB + RAC + RBC)
-RB = (RBC × RAB) / (RAB + RAC + RBC)
+@RA = (RAB × RAC) / (RAB + RAC + RBC)
+@RB = (RBC × RAB) / (RAB + RAC + RBC)
 
 (Schéma de transformation avec nœud O)
 
-RC = (RAC × RBC) / (RAB + RAC + RBC)
+@RC = (RAC × RBC) / (RAB + RAC + RBC)
 
-RC = (RAC × RBC) / (RAB + RAC + RBC)
+@RC = (RAC × RBC) / (RAB + RAC + RBC)
