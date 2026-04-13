@@ -16,6 +16,17 @@
     
           ]
         },
+        
+        {
+          "titre": "CHAP 1 : Leçon 1 : Equations du 2nd degré dans ℝ",
+          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Equations_du_2nd_degre_dans_R.txt",
+          "image_url": [
+            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_084954.jpg",
+            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085002.jpg",
+            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085023.jpg"
+    
+          ]
+        },
         {
           "titre": "CHAP 1 : Leçon 2 : Inéquation du 2nd degré dans ℝ",
           "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Lecon_2%20_Inequation_du_2nd_degre_dans_R.txt",
