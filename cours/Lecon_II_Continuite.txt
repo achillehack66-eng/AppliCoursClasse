@@ -1,0 +1,54 @@
+@Leçon II : Continuité
+@1 / Continuité d'une fonction
+@1-1. Définition
+
+Soit f une fonction numérique définie sur son ensemble de définition Df et soit a un nombre réel quelconque.
+On dit la fonction est continue au point a ssi :
+| 1/ a ∈ Df
+| 2/ lim f(x) = f(a) (x -> a)
+
+@1-2. Activité
+g : x -> √(1-x)
+Démontrez g est continue au pt 0.
+
+@Réponse
+1/ g(x) existe ssi 1-x ≥ 0 <=> x ≤ 1
+Dg = ]-∞ , 1]
+
+2/ 0 ∈ Dg
+-∞ <----------|-----|-----------> +∞
+              0     1
+
+lim g(x) = lim √(1-x) = 1 (x -> 0)
+g(0) = √(1-0) = 1
+lim g(x) = g(0) = 1 (x -> 0)
+La fonction est continue au pt x=0
+
+@2- Continuité d'une fonction numérique sur un intervalle
+@2-1. Définition
+
+une fonction numérique f est continue sur un intervalle I si f est continue en tout point de I.
+
+@2-2. Propriétés
+@Propriété 1
+une fonction polynôme est continue sur ℝ
+
+@Propriété 2
+une fonction rationnelle est continue sur son ensemble de définition
+
+@Propriété 3
+si f et g sont deux (2) fonctions continues en a alors (f+g) et la fonction (f x g) sont continues en a
+
+@Propriété 4
+Si f et g sont continues en a tel que g(a) ≠ 0 alors (f/g) continue en a
+
+@2-3. Prolongement par continuité
+Soit I ⊂ ℝ et a ∈ I et l ∈ ℝ soit f une fonction numérique définie sur I sauf en a.
+Si f est continue en tout élément de I sauf a et que lim f(x) = l (x -> a)
+alors la fonction g définie par :
+| g(x) = f(x) si x ∈ I - {a}
+| g(a) = l
+
+alors la fonction g est appelée le prolongement par continuité ou le prolongement en a.
+
+@2-4. Activité
