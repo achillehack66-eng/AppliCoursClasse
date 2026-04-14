@@ -1,7 +1,5 @@
 @13/4/26 - COMPTE-RENDU INTERROGATION du 12/3/26.
 
-@### IMAGE 1 : Ensemble de définition et dérivées
-
 @N° 1 Ensemble de définition et Dérivée des fonctions :
 
 1) f(x) = 3x² + 2x - 5.
@@ -12,11 +10,6 @@ Df = R ; f'(x) = 6x + 2 = 2(3x + 1).
 g(x) existe ssi x ≠ 0. Dg = R* = R - {0}.
 g'(x) = -12 / x⁵    [ (1/xⁿ)' = -n / xⁿ⁺¹ ]
 
----
-
-@### IMAGE 2
-
-
 3) f(x) = cos x ; Df = R.
 f'(x) = -sin x.
 
@@ -26,10 +19,6 @@ Dg = R - {1}. Posons : u = x² => u' = 2x ; v = 1 - x => v' = -1.
 
 (u/v)' = (u'v - v'u) / v² ; g'(x) = (2x(1 - x) - (-1)x²) / (1 - x)²
 g'(x) = (2x - 2x² + x²) / (1 - x)² = (2x - x²) / (1 - x)² = x(2 - x) / (1 - x)² = g'(x)
-
----
-
-@### IMAGE 3 : Étude de fonction et Tableau de variation
 
 @N° 2 f(x) = x³ - 3x + 2.
 
@@ -47,10 +36,6 @@ f'(x)  |       +      0     -     0      +
 f(x)   | -∞    ↗      4     ↘     0      ↗    +∞
 
 lim f(x) (x→-∞) = lim x³ = -∞ et lim f(x) (x→+∞) = lim x³ = +∞.
-
----
-
-@### IMAGE 4 : Extremums et Tangente
 
 @4) Les extremums :
 
