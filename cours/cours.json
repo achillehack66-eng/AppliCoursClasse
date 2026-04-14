@@ -6,6 +6,18 @@
     {
       "nom": "Mathématiques",
       "lecons": [
+
+        {
+          "titre": "COMPTE-RENDU INTERROGATION du 12/3/26",
+          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/a5a4c78378de6f1764038bccf5b54186512f30f5/cours/COMPTE-RENDU_INTERROGATION_du_12_3_26.txt",
+          "image_url": [
+            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260413_101252.jpg",
+            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260413_101302.jpg",
+            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260413_101315.jpg",
+            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260413_101325.jpg"
+          ]
+        },
+     
         {
           "titre": "Leçon II : Continuité",
           "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Lecon_II_Continuite.txt",
