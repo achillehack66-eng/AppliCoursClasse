@@ -1,3 +1,5 @@
+@13/4/26 - COMPTE-RENDU INTERROGATION du 12/3/26.
+
 @### IMAGE 1 : Ensemble de définition et dérivées
 
 @N° 1 Ensemble de définition et Dérivée des fonctions :
@@ -12,9 +14,8 @@ g'(x) = -12 / x⁵    [ (1/xⁿ)' = -n / xⁿ⁺¹ ]
 
 ---
 
-@### IMAGE 2 : Compte-rendu d'interrogation
+@### IMAGE 2
 
-@13/4/26 - COMPTE-RENDU INTERROGATION du 12/3/26.
 
 3) f(x) = cos x ; Df = R.
 f'(x) = -sin x.
