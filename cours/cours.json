@@ -8,6 +8,19 @@
       "lecons": [
 
         {
+          "titre": "Leçon 1 : Nombre dérivé et tangente",
+          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Lecon_1_Nombre_derive_et_tangente.txt",
+          "image_url": [
+            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/Gemini_Generated_Image_df7e6ddf7e6ddf7e.png",
+            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/Gemini_Generated_Image_979m3z979m3z979m.png",
+            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/Gemini_Generated_Image_dwzbe5dwzbe5dwzb.png",
+            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/Gemini_Generated_Image_tpf46ktpf46ktpf4.png",
+            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/Gemini_Generated_Image_32h1zs32h1zs32h1.png",
+            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/Gemini_Generated_Image_wls3puwls3puwls3.png"
+          ]
+        },
+        
+        {
           "titre": "COMPTE-RENDU INTERROGATION du 12/3/26",
           "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/a5a4c78378de6f1764038bccf5b54186512f30f5/cours/COMPTE-RENDU_INTERROGATION_du_12_3_26.txt",
           "image_url": [
