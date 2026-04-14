@@ -1,0 +1,93 @@
+@CHAP 7 : Régime alternatif sinusoïdal
+
+@I - Définition
+Une grandeur alternatif sinusoïdal est défini par un signal d'équation x(t) = X√2 sin(ωt + φ)
+On représente ci-dessous la tension
+u(t) = 220√2 sin(ωt + π/6)
+
+@[Graphique représentant u(t) en fonction du temps t(s)]
+
+u(t) = 220√2 sin( 2π x 50t + π/6 )
+
+@1- caractéristique
+* la valeur efficace
+U = 220V
+
+* la tension maximale
+Umax = Û = 220√2 volt
+Umax = U√2
+
+* la fréquence
+F = 50 Hz
+
+* la Période
+T = 1/F
+T = 1/50
+T = 0,02s = 20ms
+
+* La Pulsation
+ω = 2πF en (rad/s)
+
+@2. La valeur moyenne
+La valeur moyenne d'un signal est toujours nul elle se note <x(t)> = X̅ = 0
+<x(t)> ou X̅
+-> c'est pourquoi on dit le signal est alternatif
+
+@3. La valeur efficace
+la valeur efficace d'un signal X avec un appareil numérique qui sera placé sur la fonction AC + DC
+
+@4. La valeur maximale
+Cette valeur maximale est noté Xmax
+Exemple (Umax, Imax)
+
+Xmax = X√2
+Umax = Û = U√2
+Imax = Î = I√2
+
+La valeur maximale = à la valeur efficace x √2
+
+@II - Notion de déphasage
+Dans un circuit électrique alimenté par une tension alternative sinusoïdale toutes les tensions aux bornes des différents dipôles ainsi que toutes les intensités qui circulent ont toutes la même fréquence F on visualise deux signaux périodiques de Période T à l'aide d'un oscilloscope.
+
+En règle générale lorsque on visualise deux signaux à l'oscilloscope on choisit l'une des deux grandeurs comme l'origine des phases c'est à dire le déphasage d'origine de cette tension.
+φ = 0
+
+@[Graphique montrant deux ondes u(t) et v(t) déphasées]
+
+10 div <---> 360°
+0,8 div <---> ?
+(0,8 x 360) / 10 ≃ 29° ≃ π/6 rad
+
+Une période tient sur 10 divisions. Une période angulaire vaut 360°. Le déphasage entre les tensions u et v tient sur 0,8 division.
+
+Le signal v(t) est le signal de référence parce que à t=0 (au temps t=0) v(t) est en avance de 29° par rapport au signal u(t). Les signaux ont pour équations :
+v(t) = 169√2 sin(ωt + φ)
+v(t) = 169√2 sin ωt (φ=0)
+u(t) = 220√2 sin(ωt - π/6)
+
+{ v(t) = 169√2 sin ωt
+{ u(t) = 220√2 sin(ωt - π/6)
+
+Notion sur les nombres complexes
+un nombre complexe s'écrit sur la forme (r ; φ) ou sous la forme z = a + jb
+a est la partie réelle d'un nombre complexe
+
+b est la partie imaginaire
+
+@[Schéma d'un repère avec un vecteur r, d'angle φ, de base a et de hauteur b]
+
+a = r cos φ
+b = r sin φ
+r = √(a² + b²)
+
+tan φ = b/a
+b/a = (r sin φ) / (r cos φ) = tan φ
+
+r est le module du nombre complexe r = √(a² + b²)
+on a aussi : z = r(cos φ + j sin φ)
+
+Forme Polaire (r , φ)
+r -> module
+φ -> argument
+
+Forme cartésienne : z = a + jb
