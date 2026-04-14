@@ -1,0 +1,143 @@
+@Leçon 1 : Nombre dérivé et tangente
+
+@1.1. Définition
+Soit f une fonction définie sur Df et a un élément.
+lim (f(x) - f(a)) / (x - a)  [quand x -> a] existe et est finie.
+
+@1.2. Notion
+f'(a) = lim (f(x) - f(a)) / (x - a) [quand x -> a]
+
+f'(x) est la fonction dérivée de f(x) et f'(a) est le nombre dérivé de f en a.
+Si f est dérivable au point a alors la Courbe représentative de f admet une tangente (T) :
+(T) : y = f'(a)(x - a) + f(a)
+
+Vecteur directeur de la tangente :
+u | 1    |
+  | f'(a)|
+
+@1.3. Activité
+IR ---> IR
+f : x ---> x² - 1
+
+1/ Calculez le nombre dérivé de f en 3.
+2/ Déterminez l'équation de la tangente (T) à la Courbe de f (Cf) en 3.
+
+2. Dérivation et opération
+2.2. Opération sur les dérivées
+a. Tableau des dérivées des fonctions usuelles
+b. Tableau des dérivées des fonctions
+Soient f et g deux fonctions dérivables sur Df et Dg.
+
+No | Fonction | Ensemble de définition | Fonction dérivée | Ensemble de dérivation
+----------------------------------------------------------------------------------
+1  | f + g    | Df ∩ Dg               | f' + g'          | Df ∩ Dg
+2  | f - g    | Df ∩ Dg               | f' - g'          | Df ∩ Dg
+3  | f * g    | Df ∩ Dg               | f'g + fg'        | Df ∩ Dg
+4  | f / g    | Df ∩ Dg et g(x) ≠ 0   | (f'g - fg') / g² | Df ∩ Dg et g(x) ≠ 0
+5  | √f       | x ∈ Df et f(x) > 0    | f' / (2√f)       | x ∈ Df et f(x) > 0
+6  | f^n      | Df                    | n * f' * f^(n-1) | Df
+7  | g o f    | Df ∩ Dg               | f' * (g' o f)    | Df ∩ Dg
+8  | 1 / g    | x ∈ Dg et g(x) ≠ 0    | -g' / g²         | x ∈ Dg et g(x) ≠ 0
+
+---
+
+@Prolongement par continuité
+
+(Notes théoriques et début de l'activité)
+
+P3 : Si f et g sont deux fonctions continues en a alors la fonction (f + g) et la fonction (f * g) sont continues en a.
+P4 : Si f et g sont continues en a tel que g(a) ≠ 0 alors (f / g) est continue en a.
+
+2.3. Prolongement par continuité
+Soit I ⊂ IR et a ∈ I et l ∈ IR.
+Soit f une fonction numérique définie sur I sauf en a.
+Si f est continue en tout élément de I - {a} et que lim f(x) = l quand x -> a, alors g définie par :
+{ g(x) = f(x) si x ∈ I - {a}
+{ g(a) = l
+Alors la fonction g est appelée le prolongement par continuité de la fonction f en a.
+
+@Activité :
+IR ---> IR
+f : x ---> (x² + 2x - 3) / (x - 1)
+
+1/ Déterminez l'ensemble de définition de f.
+2/ Donnez la continuité de f en 1.
+3/ Déterminez le prolongement par continuité éventuel g de f en 1.
+
+---
+
+@Corrigé de l'activité (Prolongement)
+
+Réponses :
+f(x) = (x² + 2x - 3) / (x - 1)
+
+1/ f est une fonction rationnelle.
+f(x) existe ssi x - 1 ≠ 0 <=> x ≠ 1.
+Df = IR - {1}
+
+2/ f(1) n'existe pas car 1 ∉ Df. f n'est pas continue en 1.
+
+3/ N = x² + 2x - 3 ; Δ = 2² - 4(1)(-3) = 4 + 12 = 16, √Δ = 4
+x1 = (-2 - 4) / 2 = -6 / 2 = -3
+x2 = (-2 + 4) / 2 = 2 / 2 = 1
+N = (x - 1)(x + 3)
+[car a(x - x1)(x - x2)]
+
+f(x) = (x - 1)(x + 3) / (x - 1)
+Pour tout x ∈ IR - {1}, f(x) = x + 3
+g(x) = x + 3
+Sur IR - {1}, g est le prolongement par continuité de f.
+(Note : g(1) = 1 + 3 = 4)
+
+@3. Limite à gauche et limite à droite
+@3.1. Propriété
+Lorsque une fonction rationnelle et irrationnelle n'est pas définie en des points alors on calcule la limite à gauche ou à droite des points interdits.
+
+@Activité :
+f est une fonction numérique :
+{ si x ∈ ]-∞ ; 1[, f(x) = 1
+{ si x ∈ [1 ; +∞[, f(x) = 1/x
+f(1) = 1/2
+f est-elle continue en 1 ?
+
+@Réponse :
+Df = IR = ]-∞ ; +∞[
+Continuité de f en 1 :
+lim f(x) [x -> 1-] = 1
+lim f(x) [x -> 1+] = 1/1 = 1
+
+lim f(x) [x -> 1-] = lim f(x) [x -> 1+] = 1 or f(1) = 1/2.
+lim f(x) [x -> 1] ≠ f(1)
+Donc f n'est pas continue en 1.
+
+@NB : Pour qu'une fonction f soit continue en un point a, il faut que lim f(x) [x -> a-] = lim f(x) [x -> a+] = f(a).
+
+---
+
+@Variations et Extremums
+
+@3. Variations
+@3.1. Définition
+Soit f une fonction dérivable de I :
+1/ Si ∀ x ∈ I, f'(x) > 0 alors f est strictement croissante.
+Tableau :
+x    | a            b
+f'(x)|      +
+f(x) |   (flèche monte)
+
+2/ Si ∀ x ∈ I, f'(x) < 0 alors f est strictement décroissante.
+Tableau :
+x    | a            b
+f'(x)|      -
+f(x) |   (flèche descend)
+
+3/ Si ∀ x ∈ I, f'(x) = 0 alors f est constante.
+Tableau :
+x    | a            b
+f'(x)|      0
+f(x) |   (flèche horizontale)
+
+3.2. Extremums
+Propriété :
+Soit f une fonction dérivable sur un intervalle I.
+Si f' de x s'annule en x0 en changeant de signe alors f(x0) est un extremum relatif c'est-à-dire un minimum ou un maximum.
