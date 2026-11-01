@@ -6,439 +6,104 @@
     {
       "nom": "Mathématiques",
       "lecons": [
-
         {
-          "titre": "Leçon 1 : Nombre dérivé et tangente",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Lecon_1_Nombre_derive_et_tangente.txt",
-          "image_url": [
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/Gemini_Generated_Image_df7e6ddf7e6ddf7e.png",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/Gemini_Generated_Image_979m3z979m3z979m.png",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/Gemini_Generated_Image_dwzbe5dwzbe5dwzb.png",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/Gemini_Generated_Image_tpf46ktpf46ktpf4.png",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/Gemini_Generated_Image_32h1zs32h1zs32h1.png",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/Gemini_Generated_Image_wls3puwls3puwls3.png"
-          ]
-        },
-        
-        {
-          "titre": "COMPTE-RENDU INTERROGATION du 12/3/26",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/a5a4c78378de6f1764038bccf5b54186512f30f5/cours/COMPTE-RENDU_INTERROGATION_du_12_3_26.txt",
-          "image_url": [
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260413_101252.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260413_101302.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260413_101315.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260413_101325.jpg"
-          ]
-        },
-     
-        {
-          "titre": "Leçon II : Continuité",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/main/cours/TC%20Maths%20le%C3%A7on%2009%20Nombres%20complexes.pdf",
-          "image_url": [
-            
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/Gemini_Generated_Image_43blh043blh043bl.png"
-    
-          ]
-        },
-        
-        {
-          "titre": "CHAP 1 : Leçon 1 : Equations du 2nd degré dans ℝ",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Equations_du_2nd_degre_dans_R.txt",
-          "image_url": [
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_084954.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085002.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085023.jpg"
-    
-          ]
+          "titre": "Inconnu",
+          "url_txt": "Inconnu"
         },
         {
-          "titre": "CHAP 1 : Leçon 2 : Inéquation du 2nd degré dans ℝ",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Lecon_2%20_Inequation_du_2nd_degre_dans_R.txt",
-          "image_url": [
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085028.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085037.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085039.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085045.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085048.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085057.jpg"
-          ]
-        },
-        {
-          "titre": "CHAP 1 : Leçon 3 : Équations et inéquations qui se ramènent à une équation ou inéquation du 2nd degré",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Lecon_3_equations_et_inequations_qui_se_ramenent_a_une_equation_ou_inequation_du_2nd_degre.txt",
-          "image_url": [
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085104.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085118.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085120.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085131.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085136.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085152.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085155.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085201.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085203.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085211.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085213.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085224.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085228.jpg"
-          ]
-        },
-        {
-          "titre": "CHAP 2 : Leçon 1 : Angle orienté",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Lecon_1_Angle_oriente.txt",
-          "image_url": [
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085235.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085238.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085253.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085256.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085304.jpg"
-          ]
-        },
-        {
-          "titre": "CHAP 2 : Leçon 2 : Trigonométrie",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Lecon_2_Trigonometrie.txt",
-          "image_url": [
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085307.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085316.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085318.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085323.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085326.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085332.jpg"
-          ]
-        },
-        {
-          "titre": "CHAP 2 : Leçon 3 : Equations trigonométriques",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Lecon_3_Equations_trigonometriques.txt",
-          "image_url": [
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085339.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085341.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085348.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085350.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085356.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085358.jpg"
-          ]
-        },
-        {
-          "titre": "CHAP 2 : Leçon 4 : Inequations trigonométriques",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Lecon_4%20_Inequation_Trigonometrique.txt",
-          "image_url": [
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085404.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085406.jpg"            
-          ]
-        },
-        {
-          "titre": "CHAP 3 : Leçon 1 : FONCTION",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/FONCTION_ET_APPLICATION.txt",
-          "image_url": [
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085412.jpg"            
-          ]
-        },
-        {
-          "titre": "CHAP 3 : Leçon 2 : Restriction d'une fonction",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Lecon_2_Restriction_d_une_fonction.txt",
-          "image_url": [
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085415.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085421.jpg"            
-          ]
-        },
-        {
-          "titre": "CHAP 3 : Leçon 3 : Opérations sur les fonctions",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Lecon_3_Operations_sur_les_fonctions.txt",
-          "image_url": [
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260112_141350.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260112_141412.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260112_141430.jpg"            
-          ]
-        },
-        {
-          "titre": "CHAP 3 : Leçon 4 : Composées des fonctions",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Lecon_4_Composees_des_fonctions.txt",
-          "image_url": [
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260112_141448.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260112_141504.jpg"            
-          ]
-        },
-        {
-          "titre": "CHAP 3 : Leçon 5 : composée de 2 fonctions",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Lecon_5_composee_de_2_fonctions.txt",
-          "image_url": [
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260112_141528.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260112_141537.jpg"            
-          ]
-        },
-        {
-          "titre": "CHAP 3 : Leçon 6 : Les extréma",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Lecon_6_Les_extrema.txt",
-          "image_url": [
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260112_141601.jpg"         
-          ]
-        },
-        {
-          "titre": "CHAP 3 : Leçon 7 : Application et bijection",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Lecon_7_Application_et_bijection.txt",
-          "image_url": [
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260112_141615.jpg"         
-          ]
-        },
-        {
-          "titre": "CHAP 4 : Leçon 1 : Limites d'une fonction numérique",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Lecon_1_Limites_d_une_fonction_numerique.txt",
-          "image_url": [
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085438.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085440.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085510.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085512.jpg"         
-          ]
+          "titre": "Inconnu",
+          "url_txt": "Inconnu"
         }
-      ] 
+      ]
     },
     {
       "nom": "Français",
       "lecons": [
         {
-          "titre": "CHAPITRE I : LE COMMENTAIRE COMPOSE",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/CHAPITRE_I_LE_COMMENTAIRE_COMPOSE.txt",
-          "image_url": [
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085547.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085608.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085616.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085623.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085627.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085638.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085641.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085647.jpg"
-          ]
+          "titre": "Inconnu",
+          "url_txt": "Inconnu"
         },
         {
-          "titre": "CHAPITRE II : LE RESUME DE TEXTE ARGUMENTATIF",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/CHAPITRE_II_LE_RESUME_DE_TEXTE_ARGUMENTATIF.txt",
-          "image_url": [
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085650.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085708.jpg"
-          ]
-        },
-        {
-          "titre": "CHAPITRE IV : Cours sur le Roman",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/CHAPITRE_IV_Cours_sur_le_Roman.txt",
-          "image_url": [
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085751.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085759.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085801.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085810.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085814.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085821.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085824.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085830.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085839.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085847.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085850.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085857.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085901.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085916.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085919.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085924.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_085930.jpg"
-          ]
+          "titre": "Inconnu",
+          "url_txt": "Inconnu"
         }
-      ] 
+      ]
     },
     {
-      "nom": "SPA",
+      "nom": "Physique Appliquée",
       "lecons": [
-
         {
-          "titre": "CHAP 7 : Régime alternatif sinusoïdal",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/8d56f9565f3f21ac15a6c06cee29f999d6c66ad4/cours/CHAP_7_Regime_alternatif_sinusoidal.txt",
-          "image_url": [
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/home.png",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/t7jY7.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/1n3wc.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/NDHym.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/uoolW.jpg"
-          ]
-        },
-        
-        {
-          "titre": "CHAPITRE 1 : COURANT ET TENSION",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/CHAPITRE_1_COURANT_ET_TENSION.txt",
-          "image_url": [
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090431.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090441.jpg"
-          ]
+          "titre": "Inconnu",
+          "url_txt": "Inconnu"
         },
         {
-          "titre": "CHAPITRE 2 : Association de dipôles passifs",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/CHAPITREAssociation_de%20_dipoles_passifs.txt",
-          "image_url": [
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090453.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090457.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090505.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090508.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090530.jpg"
-          ]
-        },
-        {
-          "titre": "CHAPITRE 3 : Théorème Fondamentaux",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/CHAP_3%20_Theoreme_Fondamentaux.txt",
-          "image_url": [
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090536.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090553.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090559.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090609.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090618.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090625.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090634.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090640.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090647.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090651.jpg"
-          ]
-        },
-        {
-          "titre": "CHAPITRE 4 : Théorème de Kennelly",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/CHAPS_Theoreme_de_Kennelly.txt",
-          "image_url": [
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090659.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090702.jpg"
-          ]
+          "titre": "Inconnu",
+          "url_txt": "Inconnu"
         }
-      ] 
+      ]
     },
     {
-      "nom": "Mesure",
+      "nom": "TP Mesure",
       "lecons": [
         {
-          "titre": "OA : Mesurer avec précision la valeur d’une résistance inconnue à l’aide du pont de Wheatstone",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Mesure_d_une_r%C3%A9sistance_a_l_aide_du_pont_de_Wheatstone.txt",
-          "image_url": [
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090217.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090228.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090234.jpg"
-          ]
+          "titre": "Inconnu",
+          "url_txt": "Inconnu"
         },
         {
-          "titre": "OA : Analyser un pont diviseur de tension et un pont diviseur de courant",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Analyser_un_pont_diviseur_de_tension_et_un_pont_diviseur_de_courant.txt",
-          "image_url": [
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090245.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090258.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090312.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090321.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090334.jpg"
-          ]
-        },
-        {
-          "titre": "LES THEOREMES FONDAMENTAUX",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Mesure_LES_THEOREMES_FONDAMENTAUX.txt",
-          "image_url": [
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090341.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090351.jpg"
-          ]
+          "titre": "Inconnu",
+          "url_txt": "Inconnu"
         }
-      ] 
+      ]
     },
     {
       "nom": "Anglais",
       "lecons": [
         {
-          "titre": "Language Skills",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Language_Skills.txt",
-          "image_url": [
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_091155.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_091205.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_091215.jpg"
-          ]
+          "titre": "Inconnu",
+          "url_txt": "Inconnu"
         },
         {
-          "titre": "Lesson 2 : Conserving energy",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Lesson_2_Conserving_energy.txt",
-          "image_url": [
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_091231.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_091234.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_091244.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_091254.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_091306.jpg"
-          ]
-        },
-        {
-          "titre": "Lesson 3: HEART ENGINE",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Lesson_1_HEART_ENGINE.txt",
-          "image_url": [
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_091320.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_091324.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_091332.jpg"
-          ]
+          "titre": "Inconnu",
+          "url_txt": "Inconnu"
         }
-      ] 
-    },
-    {
-      "nom": "Informatique",
-      "lecons": [
-        {
-          "titre": "Chapitre 1 : Introduction aux médias sociaux",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Info_Les%20m%C3%A9dias%20sociaux.txt",
-          "image_url": [
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090902.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090905.jpg"
-          ]
-        },
-        {
-          "titre": "CHAPITRE II : LES RÉSEAUX SOCAUX",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/CHAPITRE_II_LES_RESEAUX_SOCAUX.txt",
-          "image_url": [
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090921.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090936.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090939.jpg"
-          ]
-        }
-      ] 
+      ]
     },
     {
       "nom": "Philosophie",
       "lecons": [
         {
-          "titre": "Leçon 1 : Philo_L1",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Philo_L1.txt",
-          "image_url": [
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090114.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090120.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090122.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090128.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090131.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090139.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090142.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090149.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090153.jpg"
-          ]
+          "titre": "Inconnu",
+          "url_txt": "Inconnu"
         },
         {
-          "titre": "La problématisation",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/philo_La_problematique.txt",
-          "image_url": [
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_091037.jpg"
-          ]
+          "titre": "Inconnu",
+          "url_txt": "Inconnu"
         }
-      ] 
+      ]
     },
     {
       "nom": "Techno",
       "lecons": [
         {
-          "titre": "CHAPITRE : LES_DIODES",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/CHAPITRE_LES_DIODES.txt",
-          "image_url": [
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090730.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090746.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090749.jpg"
-          ]
+          "titre": "Inconnu",
+          "url_txt": "Inconnu"
         },
         {
-          "titre": "CHAPITRE II : LE_TRANSISTOR BIPOLAIRE",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/CHAPITRE_II_LE_TRANSISTOR_BIPOLAIRE.txt",
-          "image_url": [
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090806.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090818.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090821.jpg",
-            "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/refs/heads/main/cours/Image/20260131_090831.jpg"
-          ]
+          "titre": "Inconnu",
+          "url_txt": "Inconnu"
+        }
+      ]
+    },
+    {
+      "nom": "Construction ELN",
+      "lecons": [
+        {
+          "titre": "Inconnu",
+          "url_txt": "Inconnu"
+        },
+        {
+          "titre": "Inconnu",
+          "url_txt": "Inconnu"
         }
       ]
     }
