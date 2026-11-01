@@ -1,6 +1,6 @@
 {
   "header": {
-    "derniere_maj": "08/02/2026"
+    "derniere_maj": "01/11/2026"
   },
   "matieres": [
     {
@@ -26,6 +26,10 @@
         {
           "titre": "Inconnu",
           "url_txt": "Inconnu"
+        },
+        {
+          "titre": "Figure de Style",
+          "url_txt": "https://ff.pdf"
         }
       ]
     },
@@ -46,8 +50,8 @@
       "nom": "TP Mesure",
       "lecons": [
         {
-          "titre": "Inconnu",
-          "url_txt": "Inconnu"
+          "titre": "Fiche de multimètre",
+          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/index.html/main/salu.pdf"
         },
         {
           "titre": "Inconnu",
@@ -84,10 +88,6 @@
     {
       "nom": "Techno",
       "lecons": [
-        {
-          "titre": "Inconnu",
-          "url_txt": "Inconnu"
-        },
         {
           "titre": "Inconnu",
           "url_txt": "Inconnu"
