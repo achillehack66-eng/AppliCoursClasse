@@ -1,14 +1,14 @@
 {
   "header": {
-    "derniere_maj": "01/11/2026"
+    "derniere_maj": "02/11/2026"
   },
   "matieres": [
     {
       "nom": "Mathématiques",
       "lecons": [
         {
-          "titre": "Inconnu",
-          "url_txt": "Inconnu"
+          "titre": "DEVOIR DE NIVEAU N°1 DE MATHS",
+          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/main/cours/Les_Fiches_PDF/DEVOIR%20DE%20NIVEAU%20N%C2%B01%20DE%20MATHS.pdf"
         },
         {
           "titre": "Inconnu",
@@ -50,8 +50,8 @@
       "nom": "TP Mesure",
       "lecons": [
         {
-          "titre": "Fiche de multimètre",
-          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/index.html/main/salu.pdf"
+          "titre": "Inconnu",
+          "url_txt": "Inconnu"
         },
         {
           "titre": "Inconnu",
@@ -89,8 +89,12 @@
       "nom": "Techno",
       "lecons": [
         {
-          "titre": "Inconnu",
-          "url_txt": "Inconnu"
+          "titre": "DEVOIR DE NIVEAU N°1 DE TECNO SCHÉMA",
+          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/main/cours/Les_Fiches_PDF/DEVOIR%20DE%20NIVEAU%20N%C2%B01%20DE%20TECNO%20SCH%C3%89MA.pdf"
+        },
+        {
+          "titre": "Fiche du 6 Novembre 2026",
+          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/main/cours/Les_Fiches_PDF/doc%20ompteur.pdf"
         }
       ]
     },
@@ -104,6 +108,28 @@
         {
           "titre": "Inconnu",
           "url_txt": "Inconnu"
+        }
+      ]
+    },
+    {
+      "nom": "Mécanique",
+      "lecons": [
+        {
+          "titre": "Exercice Sur les Solides Soumis a Trois Force",
+          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/main/cours/Les_Fiches_PDF/Exercices%20de%20m%C3%A9canique.pdf"
+        }
+      ]
+    },
+    {
+      "nom": "Dessin Industriel",
+      "lecons": [
+        {
+          "titre": "Fiche de Revision",
+          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/main/cours/Les_Fiches_PDF/Exercices%20de%20r%C3%A9vision%20de%20dessin%20industriel%20(1).pdf"
+        },
+        {
+          "titre": "Exercice de Representation Graphique",
+          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/main/cours/Les_Fiches_PDF/EXERCICES%20DE%20REPR%C3%89SENTATION%20GRAPHIQUE%20DE%20DESSIN%20TECHNIQUE.pdf"
         }
       ]
     }
