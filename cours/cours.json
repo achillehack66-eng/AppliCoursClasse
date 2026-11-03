@@ -94,6 +94,10 @@
       "nom": "Construction ELN",
       "lecons": [
         {
+          "titre": "Devoir sur Les Familles TTL et Les portes logiques",
+          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/main/cours/Les_Fiches_PDF/devoir_construction_tle_f2.pdf"
+        },
+        {
           "titre": "Projet de Système de Gestion Automatique de Fil d'Attente",
           "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/main/cours/Les_Fiches_PDF/Projet%20de%20syst%C3%A8me%20de%20gestion%20automatique%20de%20fil%20d'attente%20avec%20appel%20vocal%20du%20num%C3%A9ro%20et%20du%20guichet.pdf"
         }
