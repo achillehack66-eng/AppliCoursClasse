@@ -1,6 +1,6 @@
 {
   "header": {
-    "derniere_maj": "02/11/2026"
+    "derniere_maj": "03/11/2026"
   },
   "matieres": [
     {
@@ -26,10 +26,6 @@
         {
           "titre": "Inconnu",
           "url_txt": "Inconnu"
-        },
-        {
-          "titre": "Figure de Style",
-          "url_txt": "https://ff.pdf"
         }
       ]
     },
@@ -37,12 +33,12 @@
       "nom": "Physique Appliquée",
       "lecons": [
         {
-          "titre": "Inconnu",
-          "url_txt": "Inconnu"
+          "titre": "Devoir N°1 de Physique Grandeur Periodique",
+          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/main/cours/Les_Fiches_PDF/devoir%20de%20physique%20grandeur%20periodeique.pdf"
         },
         {
-          "titre": "Inconnu",
-          "url_txt": "Inconnu"
+          "titre": "Devoir de Niveau N°1 de Physique Appliquée Grandeur Periodique",
+          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/main/cours/Les_Fiches_PDF/Devoir%20de%20Niveau%20N%C2%B01%20de%20Physique%20Appliqu%C3%A9e.pdf"
         }
       ]
     },
