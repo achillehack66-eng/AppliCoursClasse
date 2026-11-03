@@ -7,12 +7,8 @@
       "nom": "Mathématiques",
       "lecons": [
         {
-          "titre": "DEVOIR DE NIVEAU N°1 DE MATHS",
+          "titre": "Devoir de Niveau N°1 de MATHS Limite et Continuité",
           "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/main/cours/Les_Fiches_PDF/DEVOIR%20DE%20NIVEAU%20N%C2%B01%20DE%20MATHS.pdf"
-        },
-        {
-          "titre": "Inconnu",
-          "url_txt": "Inconnu"
         }
       ]
     },
@@ -85,11 +81,11 @@
       "nom": "Techno",
       "lecons": [
         {
-          "titre": "DEVOIR DE NIVEAU N°1 DE TECNO SCHÉMA",
+          "titre": "DEVOIR DE NIVEAU N°1 DE TECNO SCHÉMA Bascules (JK, D)",
           "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/main/cours/Les_Fiches_PDF/DEVOIR%20DE%20NIVEAU%20N%C2%B01%20DE%20TECNO%20SCH%C3%89MA.pdf"
         },
         {
-          "titre": "Fiche du 6 Novembre 2026",
+          "titre": "Compteurs Asynchrones et Autre",
           "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/main/cours/Les_Fiches_PDF/doc%20ompteur.pdf"
         }
       ]
@@ -98,12 +94,8 @@
       "nom": "Construction ELN",
       "lecons": [
         {
-          "titre": "Inconnu",
-          "url_txt": "Inconnu"
-        },
-        {
-          "titre": "Inconnu",
-          "url_txt": "Inconnu"
+          "titre": "Projet de Système de Gestion Automatique de Fil d'Attente",
+          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/main/cours/Les_Fiches_PDF/Projet%20de%20syst%C3%A8me%20de%20gestion%20automatique%20de%20fil%20d'attente%20avec%20appel%20vocal%20du%20num%C3%A9ro%20et%20du%20guichet.pdf"
         }
       ]
     },
