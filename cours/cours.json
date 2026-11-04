@@ -1,6 +1,6 @@
 {
   "header": {
-    "derniere_maj": "03/11/2026"
+    "derniere_maj": "04/11/2026"
   },
   "matieres": [
     {
@@ -14,16 +14,7 @@
     },
     {
       "nom": "Français",
-      "lecons": [
-        {
-          "titre": "Inconnu",
-          "url_txt": "Inconnu"
-        },
-        {
-          "titre": "Inconnu",
-          "url_txt": "Inconnu"
-        }
-      ]
+      "lecons": []
     },
     {
       "nom": "Physique Appliquée",
@@ -40,42 +31,15 @@
     },
     {
       "nom": "TP Mesure",
-      "lecons": [
-        {
-          "titre": "Inconnu",
-          "url_txt": "Inconnu"
-        },
-        {
-          "titre": "Inconnu",
-          "url_txt": "Inconnu"
-        }
-      ]
+      "lecons": []
     },
     {
       "nom": "Anglais",
-      "lecons": [
-        {
-          "titre": "Inconnu",
-          "url_txt": "Inconnu"
-        },
-        {
-          "titre": "Inconnu",
-          "url_txt": "Inconnu"
-        }
-      ]
+      "lecons": []
     },
     {
       "nom": "Philosophie",
-      "lecons": [
-        {
-          "titre": "Inconnu",
-          "url_txt": "Inconnu"
-        },
-        {
-          "titre": "Inconnu",
-          "url_txt": "Inconnu"
-        }
-      ]
+      "lecons": []
     },
     {
       "nom": "Techno",
