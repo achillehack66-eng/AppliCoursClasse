@@ -1,6 +1,6 @@
 {
   "header": {
-    "derniere_maj": "04/11/2026"
+    "derniere_maj": "05/11/2026"
   },
   "matieres": [
     {
@@ -14,7 +14,12 @@
     },
     {
       "nom": "Français",
-      "lecons": []
+      "lecons": [
+        {
+          "titre": "Synopses d'Œuvres Littéraires",
+          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/main/cours/Les_Fiches_PDF/Synopses%20d'%C5%92uvres%20Litt%C3%A9raires.pdf"
+        }
+      ]
     },
     {
       "nom": "Physique Appliquée",
@@ -86,6 +91,10 @@
         {
           "titre": "Exercice de Representation Graphique",
           "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/main/cours/Les_Fiches_PDF/EXERCICES%20DE%20REPR%C3%89SENTATION%20GRAPHIQUE%20DE%20DESSIN%20TECHNIQUE.pdf"
+        },
+        {
+          "titre": "Les Roulements",
+          "url_txt": "https://raw.githubusercontent.com/achillehack66-eng/AppliCoursClasse/main/cours/Les_Fiches_PDF/Les_Roulements_Cours_Complet_copie.pdf"
         }
       ]
     }
